@@ -1,4 +1,4 @@
-# Book-of-Nede
+# Book of Néde
 
 ![Kingdom of Omerad Region Picture](/src/Kingdom_of_Omerad.png "Kingdom of Omerad")
 
