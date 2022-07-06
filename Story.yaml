@@ -90,7 +90,11 @@ Organizations:
       
 NPCs: 
 
-  - Name: "Lysanne"
+  - Name: Lysanne Montagu
+    Race: Human, Female
+    Class: 
+      Witch: 9
+      Aristocrat: 1
     Description: Blonde, blue-eyed, beautiful
     Details: | 
       Once a powerful witch in the service to [ Zh'Ash ]
@@ -106,6 +110,11 @@ NPCs:
       - Bracers of Light (3.5)
       - Ornate Holy Silver Dagger +1 
       - Research Notes - written in Necril detailing her plan
+      - +1 quarterstaff
+      - Amulet of natural armor +1
+      - cloak of resistance +2
+      - potions of cure moderate wounds [2] 
+      - ring of protection +1
   
   - Name: Ven Einder 
     Race: Human, Male
@@ -129,6 +138,84 @@ NPCs:
       - wooden mask
       - 360 gp
 
+
+  - Name: Bertha Klingenläufer
+    Race: Human
+    Class: 
+      Ranger: 3
+    Description: |
+      She is a 47 year old female human ranger.
+      She has a bald head and blue eyes.
+      She has rough, sunburned, black skin.
+      She stands 162cm (5'3") tall and has a regular build.
+      She has a square, forgettable face.
+      She is blind.
+    Details: | 
+      She hates fair play.
+      She is very optimistic.
+      She is a compulsive gambler.
+    Equipment: 
+      - potion of bulls strength
+      - potions of cure light wounds (2)
+      - potion of hide from animals
+      - masterwork studded leather
+      - masterwork handaxes (2)
+      - masterwork heavy crossbow with 20 bolts
+      - 63 gp
+
+
+  - Name: Idla Trauerhölle
+    Race: Human
+    Class: 
+      Fighter: 2
+      Aristocrat: 1
+    Description: |
+      She has very long, straight, gray hair and blue eyes.
+      She has rough pink skin.
+      She stands 149cm (4'10") tall and has an athletic build.
+      She has a round, average face.
+      She rolls her "R"s profusely.
+    Details: | 
+      She is very cynical.
+      She is very courageous, to a fault.
+      She sees fighting as a solution to any problem.
+      She doesn't like listening to jokes.
+    Equipment: 
+      - masterwork half-plate
+      - light wooden shield
+      - lance
+      - longsword
+      - heavy warhorse
+
+
+  - Name: Yexim Quorug Tover Toryn
+    Race: Gnome
+    Class: 
+      Barbarian: 3
+    Description: |
+      He has long, curled, black hair and golden eyes.
+      He has rugged brown skin.
+      He stands 106cm (3'5") tall and has a muscular build.
+      He has a round, slightly creepy face.
+      He has an unfinished tattoo of a poem about pain on his left arm.
+    Details: | 
+      He is a very good diplomat and always works towards resolution of conflict.
+      He only talks in whispers.
+      He is way too curious.
+      He never surrenders.
+      He likes to swim.
+      He knows all the gossip around town.
+    Equipment: 
+      - Combat Gear potion of cure light wounds
+      - potion of lesser restoration
+      - potion of protection from good 
+      - masterwork chainmail
+      - masterwork greataxe
+      - masterwork sling with 10 bullets
+      - climber’s kit
+      - 250 gp
+
+################
   - Name:  
     Race: 
     Class: 
