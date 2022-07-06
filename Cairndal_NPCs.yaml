@@ -1,0 +1,219 @@
+  - Name: Galbo Ardic
+    Occupation: Ranger
+    Alignment: CN 
+    Race: Halfling
+    Sex: Male
+    Age: 
+      Years: 29
+      Category: Adult
+    Class: 
+      Ranger: 2
+    Description: |
+      He is a 29 year old male lightfoot halfling ranger.
+      He has cropped, wavy, brown hair and green eyes.
+      He has rugged, pockmarked, brown skin.
+      He stands 89cm (2'11") tall and has an athletic build.
+      He has an edgy, average face with a medium beard.
+      He has a tribal tattoo on his right hand and a beautiful tribal tattoo on his left hand.
+      He has slightly long fingers.
+    Details: | 
+      He discretely worships Yondalla, Goddess of halflings, bounty, protection, children, security, leadership, wisdom, creation and family. (Lawful Good)
+      He always keeps score.
+      He only talks loudly.
+      He can tame any animal.
+      He doesn't like his profession, has always dreamed of becoming a wizard.
+      He is a vocal vegan.
+    Equipment: 
+      - some equipment
+    PlotHook: |
+      He has learned of the existence of a shrine to the archdevil Baalzebul.
+      He is part of a local drug dealing circle.
+
+  - Name: Enwenen Aldaviel
+    Occupation: Oracle of Corethian
+    Alignment: CG
+    Race: Elf
+    Sex: Female
+    Age: 
+      Years: 101
+      Category: Adult
+    Class: 
+      Class: Oracle
+      Level: 4
+    Description: |
+      Enwenen Aldaviel is a 101 year old female high elf cleric.
+      She has long, curled, black hair and brown eyes.
+      She has silky pink skin.
+      She stands 162cm (5'3") tall and has a regular build.
+      She has an oval, very cute face.
+      She has a light scoliose.
+    Details: | 
+      She proudly worships Corethian, God of elves, magic, music, arts, crafts, war, poetry, bards, warriors. (Chaotic Good)
+      She will always prioritize the needs of other people, even to her detriment.
+      She constantly looks for the loophole.
+      She spends a lot of time studying other religions.
+      She loves discovering new mysteries and solving them.
+    Equipment: 
+      - some equipment
+    PlotHook: |
+      She is currently chasing a bandit and asks the PCs for help.
+
+  - Name: Atheena Grimmsdotr  
+    Occupation: Midwife / Nursemaid
+    Alignment: NG
+    Race: Human - Werewolf
+    Sex: Female
+    Age: 
+      Years: 16
+      Category: Young
+    Class: 
+      Class: Expert
+    Description: |
+      She is a 16 year old female human midwife & nursemaid.
+      She has a bald head and brown eyes.
+      She has rugged tanned skin.
+      She stands 147cm (4'9") tall and has an athletic build.
+      She has a diamond-shaped, slightly repulsive face.
+      She has very long nails.
+    Details: | 
+      She discretely worships Tyr, God of justice. (Lawful Good)
+      She is always very excited.
+      She is slightly lazy.
+      She doesn't like parting with her money or possessions.
+      She gets very mad at any semblance of an insult.
+      She has a crude sense of humour.
+    Equipment: 
+      - some equipment
+    PlotHook: |
+      She wants the PCs to help her tame a griffon.
+      She is a werewolf and wants to get rid of it.
+
+  - Name: Hadrian Larsen
+    Occupation: Burgomeister
+    Alignment: LN
+    Race: Human
+    Sex: Male
+    Age: 
+      Years: 62
+      Category: Old
+    Class: 
+      Aristocrat: 4
+    Description: |
+      He has short, braided, white hair and red eyes.
+      He has rugged, ghostly, white skin.
+      He stands 179cm (5'10") tall and has a massive build.
+      He has an oval, unremarkable face.
+      He is albino.
+    Details: | 
+      He discretely worships Sahaelis, Elven God of water. 
+      He will ponder the pros and cons before making a decision.
+      He is very pessimistic.
+      He considers everyone else as idiots.
+      He occasionally quotes his father.
+    Equipment: 
+      - some equipment
+    PlotHook: |
+      He is organizing a monster slaying tournament. The prize will be a precious lance.
+
+  - Name: Mili Strongmaster
+    Occupation: Merchant
+    Alignment: LN
+    Race: Dwarf
+    Sex: Female
+    Age: 
+      Years: 78
+      Category: Adult
+    Class: 
+      Class: level
+    Description: |
+      She has very long, wavy, white hair and brown eyes.
+      She has soft, sunburned, white skin.
+      She stands 122cm (4'0") tall and has a lean build.
+      She has a soft, slightly beautiful face.
+      She is very bow-legged.
+      She doesn't worship any god.
+    Details: | 
+      She uses sarcasm and insults commonly.
+      She has no self-confidence.
+      She harbours a deep hatred of orcs and goblins.
+      She wears a lot of cheap jewelry.
+      She is a local sport champion.
+    Equipment: 
+      - some equipment
+    PlotHook: |
+      She has recently woken up with a magical rune on her right arm.
+
+  - Name: Bori Mountainriver
+    Occupation: Innkeeper
+    Alignment: LG
+    Race: Dwarf
+    Sex: Female
+    Age: 
+      Years: 360
+      Category: Old
+    Class: 
+      Class: level
+    Description: |
+      She has long, straight, dyed yellow hair and brown eyes.
+      She has silky golden skin.
+      She stands 124cm (4'0") tall and has a muscular build.
+      She has a round, incredibly ordinary face.
+      She smells slightly of sweat.
+    Details: | 
+      She doesn't worship any god.
+      She is very direct.
+      She is very slow to trust other people.
+      She loves partying.
+      She is always joking, even at innapropriate times.
+      She makes anyone she speaks to feel like the most important person in the world.
+    Equipment: 
+      - some equipment
+    PlotHook: |  
+      She needs help exorcising her cousin.
+
+  - Name: Ariana Mournhell 
+    Occupation: Apothecary
+    Alignment: LG
+    Race: Human
+    Sex: Female
+    Age: 
+      Years: 23
+      Category: Adult
+    Class: 
+      Adept: 2
+    Description: | 
+      She has a bald head and brown eyes.
+      She has smooth, sunburned, white skin.
+      She stands 165cm (5'4") tall and has a beefy build.
+      She has an oval, repugnant face.
+      She is allergic to blueberries.
+    Details: | 
+      She discretely worships Sola, God of the Day. (Lawful Good)
+      She is quick to forgive.
+      She is very obstinate.
+      She inherited a small forest.
+      She occasionally quotes proverbs.
+    Equipment: 
+      - some equipment
+    PlotHook: |
+      She is obsessed with a nearby grove with extraordinary flowers.
+
+
+
+#########################3
+  - Name: Name
+    Occupation:
+    Alignment:  
+    Race: 
+    Sex: 
+    Age: 
+      Years: 
+      Category: 
+    Class: 
+      Class: level
+    Description: some description
+    Details: | 
+      some details
+    Equipment: 
+      - some equipment
+    PlotHook: |

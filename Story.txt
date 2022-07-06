@@ -1,0 +1,140 @@
+
+Story: |
+  9 Months ago, [Lysanne] was the a prominent devotee of [Zh'Ash]
+  the Elder God of Death. When her cult in [Fjenst] had uncovered the
+  ancient tomb-city of [Vernich] and made successful exploration 
+  of it - they found something terrible. The fabled [Book of Zaede], 
+  a tome of the unfathomable power of creation. 
+
+  Using this book of [Sigilmetry] their plan was to bore [Zh'Ash] into life. [Lysanne] 
+  volunteered to be his vessel, and using the [Book of Zaede] became pregant with a baby. 
+  As her pregnancy developed in the months that followed, she became suffered increasingly 
+  from nightmarish visions of [Zh'Ash]'s plans for the world. Distraught at what she might
+  unleash from her womb; she spoke with the leader of her sect, [Ven Einder] - who attempted to 
+  disuade her from aborting the babe. 
+
+  [Lysanne], feigning compliance - made plans to flee. Her research indicated that 
+  [Skelgrav] in distant [Omeran] [Cairndal Valley] as a place rich with the power of [Luxi]
+  might be the one place where her abortion might succeed. 
+
+  Upon making her flight with the stolen [Book of Zaede], she was immediately pursued by 
+  her former [Mistmen] cult acolytes. 
+
+  -- 
+
+  In Cairndal, the cult of Mistmen has no significant presence. [Ven Einder] and the few 
+  cultists he brought with him in pursuit of [Lysanne] stick out as outlanders - so they 
+  mostly stay in their camp hidden in the top level of [Skelgrav] on the cliffs above [Cairnpool]. 
+  They had actually beaten [Lysanne] to the region, but she was able to elude them up to the 
+  night the campaign begins. 
+
+  In the few weeks leading up to the [start of the game]:
+    - [Lysanne] had been hiding in Cairndal
+    - 3 Children had gone missing, after wandering too close and spotting the [Mistmen] entering [Skelgrav]
+    - Goblins had been initially blamed for the Children's disappearances
+    - Livestock have been mutilated by [Zh'Ash] inside [Lysanne] as she passes
+    - A raid was recently conducted on a nearby Goblin warren; the children had been found inside 
+      (planted there by [Cairndal] guards, on the [Burgomeister's orders])
+    - A Goblin survivor had been capture in the attack, and is currently being held prisoner
+    - [Lysanne] was found by [Mistmen] the morning of [start of the game], and the [Key to the Book of Zaede] was stolen from her
+    - [Lysanne] was only able to escape by drawing on power from [Zh'Ash] inside her
+    - This event disrupts the town's daily routine, and leaves a mysterious corpse the [Mistman]
+    - [start of the game]
+
+
+Events:
+  - "[Lysanne] gives birth and dies"
+  - PCs rescue the baby 
+  - PCs investigate how she died 
+    - [Lysanne]s murder of Mistman
+    - Capture Goblin from Raid 
+    - disappearance of kids 
+  - PCs should get attacked by the [Mistmen] one-by-one
+  - PCs should find [Ven Einder]'s camp || or get attacked by [Ven] 
+  - Once all the [Mistmen] & [Ven Einder] are dead / defeated
+    - They have the [Key to the Book of Zaede]
+    - They know [Ven Einder] is from [Heinburg, Fjenst]
+    - They can get [Lysanne] notes translated in a big City 
+  - The PCs should return to explore [Skelgrav]
+  - PCs should NOT be able to access the inner levels of [Skelgrav] & and will need to locate the relic 
+  - "[Begin next chapter] where the PCs are hunted by [Knights of Aidel] for having the [Book of Zaede]"
+
+
+
+Region: Omerad
+Location: Cairndal Valley
+Sites of Interest: 
+  - Name: "Skelgrav" 
+    Details: | 
+      Once a Cultic temple to "The Man in the Mist", built
+      by its followers. The temple was destroyed by [ Luxi ] 
+      ages ago. The temple contains several levels and chambers,
+      each dedicated to exploring the 'gifts' of Decay. 
+    Enemies: 
+      - Skeletons
+      - Zombie, Plague
+      - Rot Grub (Hazard)
+      - Rot Grub Swarm
+
+Organizations:
+  - Name: Mistmen 
+    Leader: Ven Einder
+    Details: 
+      Type: Cult
+      Worship: The Man in the Mist
+      Headquarters: Heinburg, Fjenst
+      Objective: Birth [ Zh'Ash ] into the world to end the curse
+    Description: | 
+
+
+      
+NPCs: 
+
+  - Name: "Lysanne"
+    Description: Blonde, blue-eyed, beautiful
+    Details: | 
+      Once a powerful witch in the service to [ Zh'Ash ]
+      she became pregant with his Avatar by part of evil rite. 
+      This took place in the city of [ Langtvaek ] - when she 
+      later regretted housing the incarnation of Death; she sought
+      a way to prevent his birth. Coming with haste to the Cairndal 
+      region to abort the Rot God by a rite which could only be 
+      performed at [ Skelgrav ]
+    Equipment: 
+      - Book of Naede (Key was lost)
+      - Torn Clothes 
+      - Bracers of Light (3.5)
+      - Ornate Holy Silver Dagger +1 
+      - Research Notes - written in Necril detailing her plan
+  
+  - Name: Ven Einder 
+    Race: Human, Male
+    Class: 
+      Bard: 4
+      Aristocrat: 1
+    Description: Fjenst Human, Dark Hair, Dark Eyes, Large Red Birthmarks
+    Details: | 
+      The local Cult leader of "The Man in the Mist" and fanatically
+      in search of [ Lysanne ] who had stolen the [Book of Naede] in her flight.
+    Equipment: 
+      - potion of cure moderate wounds
+      - potion of eagle’s splendor
+      - scroll of animate rope
+      - scroll of summon monster
+      - masterwork chain shirt
+      - masterwork heavy crossbow with 20 bolts
+      - masterwork dagger
+      - ring of protection +1
+      - light combat-trained horse with riding saddle
+      - wooden mask
+      - 360 gp
+
+  - Name:  
+    Race: 
+    Class: 
+      SomeClass: Level
+    Description:
+    Details: | 
+      Some Details
+    Equipment: 
+      - Some equipment

@@ -1,0 +1,77 @@
+Deities: 
+    
+Dwarven Pantheon
+    Moradin - king, LG
+    Arbjor - NE, greed
+    Njarberra - Queen, family, LG
+    Gjeddin - War, LG
+    Duerra - Evil, LE
+    Mjorin - Lore, CG
+    Thoine - Secrets, N
+    Gormstang - Protection, LG
+    Haela - Victory, CG
+    LaDuguer - Ultimate Evil (The Devil), NE
+    Mjirhammer - Travel, NG
+    Sharinjar - Mercy, CG
+    Jard - Wilderness, CG
+    Verjoine - Wealth/Merchants, N
+    
+Elven Pantheon
+    Corethian Sunblade- King, CG
+    Sehanine Moonbow - Queen, CG
+    Aerdie - Winged Creatures, CG
+    Aeharad - Life/Fertility, CG
+    Sahaelis - Oceans, CG
+    Ereven - Dance/Parties, CN
+    Fenaril - Wilderness, CN
+    Celanil - Artistry/Love, CG
+    Labelas - Time, CG
+    Rillifen - Druids, NG 
+    Shavarash - The Hunt, CG
+    Solonor - War, CG
+    Aelstilae - good drow, CG
+        Drow: 
+            Lolth - ex-Queen, evil, CE
+            Aekiarlee - undead, CE
+            Maetelis - bodyguard of Lolth, LE
+            Vhaern - male drow, CE
+
+Halfling Pantheon
+    Arvoreen - Hunt, CG
+    Brandobaris - Play, CG
+    Cyrrollalee - Travel, CG
+    Peryoyl - Trickery, CG
+    Urogalan - evil halflings, CE
+    Yondalla - Queen, CG
+
+Gnomish Pantheon
+    Garl Glittergold - King, NG
+    Baervan Wildwanderer - Travel, NG
+    Baravar Cloakshadow - Illusions, CG
+    Callarduran Smoothands - Svirfneblin, N
+    Flandal Steelskin - Paladins, LG
+    Gaerdal Ironhand - Invention, LN
+    Segojan Earthcaller - Druids, N
+    Urdlen - Evil gnomes, NE
+
+Orcish Pantheon
+    Gruumsh - King, CE
+    Bahgtru - Strength, CE
+    Ilneval - War, NE
+    Luthic - female orcs, NE
+    Shargaas - thieves, CE
+    Yurtrus - Disease, NE 
+    
+Human Pantheons
+    Sola - Sun 
+    Noxa - Night
+    Caelis - Sky 
+    Saxon - Earth
+    Sylvanus - Woodlands / Plants 
+    Russo - Farming
+    Pecunia - Merchants
+    Venecus - Evil Magic / Undeath & Death
+    Luxi - Light / Good magic
+    Ientus - Knowledge
+    Rabelus - War
+    Arakis - Aristry / Craftsmen

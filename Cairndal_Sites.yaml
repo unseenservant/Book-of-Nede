@@ -1,0 +1,206 @@
+
+- Name: Cairndal
+  Details:
+    Village:
+      Population: 128
+    Alignment: LN
+    Government: Autocracy
+    Qualities: 
+      - insular
+      - prosperous
+    Stats:
+      - Corruption -1
+      - Crime -2
+      - Economy +0
+      - Law +1
+      - Lore +0
+      - Society -1
+    Danger: 0
+  NotableNPCs:
+    Mayor: Hadrian Larsen
+    Innkeeper: Bori Mountainriver
+    Shopkeep: Mili Strongmaster
+    Apothecary: Ariana Mournhell
+  Marketplace:
+    BaseValue: 650 gp
+    PurchaseLimit: 3,750 gp
+    Spellcasting: 3rd
+    Items: 
+      Minor: 2d4
+        - Wand of Alarm (cr, 750 gp) (inscription provides clue to function)
+        - Scroll of Endure Elements (cr, 25 gp)
+        - Buckler (+1 shield) (1155 gp)
+        - Scroll of Obscuring Mist (cr, 25 gp)
+        - Oil of Make Whole (cr, 300 gp)
+        - Potion of Spider Climb (cr, 300 gp)
+        - Potion of Invisibility (cr, 300 gp)
+        - Chainmail (+1 armor, Fortification (light)) (4300 gp)
+      Medium: 1d4
+        - Shortsword (+3 weapon) (sheds light) (18310 gp)
+        - Medallion of Thoughts (12000 gp)
+        - Scroll of Commune (cr, 1625 gp)
+        - Chainmail (+3 armor) (9300 gp)
+      Major: None 
+  Description: | 
+    Cairndal is located about 2 days north along the Dale Road from Frederiksborg Castle. 
+    It is off the main trail by about a futher half-day. Making it an out of the way and quiet village 
+    in the many Fjords and Valleys of Omerad. The village's close knit and troublefree population is 
+    primarily human, with a few half-elves and many dwarves taking mercantile roles. 
+    The city is not without renown in the region, as being the primary rest stop on the road
+    to the Dwarven city of Silverroot - a trail rarely ventured upon by menfolk, but more so
+    dwarven caravans making their way to market in wider human lands in between winters. 
+
+- Name: Silverroot
+  Details:
+    Large_Town:
+      Population: 3969
+    Alignment: LN
+    Government: Council
+    Qualities: 
+      - industrial
+      - racially intolerant (Elves)
+      - strategic location
+    Stats:
+      Corruption: +1
+      Crime: +0
+      Economy: +0
+      Law: -1
+      Lore: -2
+      Society: +0
+    Danger: 5
+  NotableNPCs:
+  Marketplace:
+    BaseValue: 1,400 gp
+    PurchaseLimit: 7,000 gp
+    Spellcasting: 5th
+    Items: 
+      Minor: 3d4
+        - Wand of Alarm (cr, 750 gp) (inscription provides clue to function)
+        - Scroll of Endure Elements (cr, 25 gp)
+        - Buckler (+1 shield) (1155 gp)
+        - Scroll of Obscuring Mist (cr, 25 gp)
+        - Oil of Make Whole (cr, 300 gp)
+        - Potion of Spider Climb (cr, 300 gp)
+        - Potion of Invisibility (cr, 300 gp)
+        - Chainmail (+1 armor, Fortification (light)) (4300 gp)
+      Medium: 2d4
+        - Shortsword (+3 weapon) (sheds light) (18310 gp)
+        - Medallion of Thoughts (12000 gp)
+        - Scroll of Commune (cr, 1625 gp)
+        - Chainmail (+3 armor) (9300 gp)
+      Major: 1d4 
+  Description: | 
+    ""
+
+- Name: Afsdal
+  Details:
+    Village:
+      Population: 112
+  NotableNPCs:
+    Mayor: 
+    Innkeeper:
+  Description: | 
+    ""
+
+- Name: Cairn Pool 
+  Description: |
+    A clear blue lake that has formed from rain runoff at the bast of the 
+    lone mountain in the middle of the Cairndal Valley. It's popular as a fishing stop
+    for the locals and travelers alike. Water channels have been carved out from the lake
+    running into the Cairndal Farms to the south - giving them a fresh water supply even in 
+    dry months. 
+
+- Name: Old Lookout
+  Description: |
+    A stone lookout tower built for one of the many previous wars the Kingdom 
+    of Omerad has battled in throughout it's history. The now mostly decrepted tower
+    is still barely standing watch at the top of a hill overlooking the crossroad between 
+    the main thorough fair toward the capital Emhrais & the dale to the west. 
+
+- Name: Skelgrav
+  Description: |
+    An old stone ruin of an ancient temple or fortress belonging to some forgotten
+    civilization. The ruins locals call "Skelgrav" is a taboo for the people of the valley below.
+    However, foolish children still make dares to go up and touch one of the pillars 
+    - which still bares the weight of the mighty structure overshadowing the village below. 
+    Thoughout its recorded history, the upper levels of the ruin have been home some visiting monsters;
+    ranging from goblin tribes to deadlier things. Though the ruins lower levels have never 
+    been explored to anyone's knowledge. The upper pillars and walls are reported to have eerie symbols 
+    and strange busts visibly etched deep into the granite that forms the walls and structure. 
+
+- Name: Cairndal Farms
+  Description: |
+    The farmland is irrigated by channels dug from the nearly Cairndal Pool.
+    The soft fields of tundra wheat, livestock, barley and potatoes run 
+    the breadth of the main road to the capital Emhrais from the Cairndal pool to the Elfwater. 
+    The farmers live in the nearby village and venture out to their alloted plots each 
+    day to perform their work as is traidition in Omerad culture; rather than making 
+    homesteads out on their plots.
+
+- Name: Elfwater
+  Description: |
+    So named for a family of Elves that is known to inhabit the area, 
+    one that can be frequently spotted visiting this pond in particular. 
+    The elven family is not known to be unfriendly to the Valleyfolk, 
+    but it is custom to keep each race to themselves as much as possible. 
+    Stories from a few generations ago tell of a young burgomeister who
+    thought it a good idea to try and collect taxes from the Elves by 
+    setting guards around the Elfwater - this was met with quite a few arrows. 
+    Since then relations have been tense, at least on the valleyfolk side of things.
+    Never sure if their next encounter with an Elf at the water will be amicable, 
+    or an opportunity for the Elves to take some kind of vengeance for sins 
+    no longer within human memory. 
+
+- Name: Oldstones
+  Description: |
+    Nestled deep in the woods on the western edge in the old forest; just off the trail to Silverroot 
+    lies the Oldstones. These ancient monuments seem reminiscent of gravestones like in the far south.
+    Perhaps they are an old Druid circle, or Entmoot. The Valleyfolk do not know ; but the air 
+    is pleasant near the stones, and the wind always gentle. The older children love to play games 
+    in the shaded boughs of the trees near the stones and make little children of their own in private 
+    weddings away from disapproving parental eyes. 
+
+- Name: Five Pools
+  Description: |
+    Five pools of crystal clear mountain water sit in this forest glen. 
+    Known to be a meeting place for the local Druid circle, these pools hold
+    a sacred space in the hearts of the Valley folk. While it is rare enough to find
+    a Druid meeting taking place - as they keep their schedule secret from common folk.
+    It is often a good place to go and seek guidance from the Druids by leaving litte notes 
+    for the woodkeepers to find. 
+
+- Name: Quiet Place
+  Description: |
+    An old temple to an unknown god, this eerie edifice stands untouched by time
+    save for the creepers that ensnare it now. The air is deathly still & the wind does not blow
+    in the presence of this odd building. The valley folk keep away from this place, fearing a
+    curse of silence be put upon themselves for trespassing. 
+
+    Once, within living memory, a priest of Luxi goddess of light was travelling the Dale road 
+    and heard tell of this Quiet Place. Believing it to be cursed she attempted to undo
+    whatever magic held its snare - and was never *heard* from again. 
+
+- Name: Blackhold 
+  Description: |
+    A tower built of strange polished black stones without markings or even seams between the bricks. 
+    A few brave (or stupid) children have managed to get inside through the high windows that sit in
+    the flat walls of the strucutre; and claim to have found odd relics of antiquity. 
+
+    It was for a time in the Valley's history a sort of rite of passage for a boy when he comes of age
+    to retrieve a relic from the Tower for his father. However that rite was ended when 43 years ago little 
+    Jan Relksen climbed through the high window and was disappeared in a flash of white flames.  
+
+- Name: Afsdal Farms
+
+- Name: Bitter Pond
+  Description: | 
+    Long before human memory records, this was a beautiful pool like the others
+    in the valley. However, when the Dwarves setup their mine in Silverroot - the runoff
+    from their smithies poisoned the water and the farmland around it. 
+
+    Fish no longer swim in these waters, and while local Apothecaries say the water 
+    is good for healing salves - the many farmers of Alfsdal who've seen their farmland
+    shrink because of the Dwarven carelessness. The Dwarven King of Silverroot has been 
+    entreated several times, even by an emissary from Emhrais to take measures to restore the water
+    but the Dwarves are nothing if not obstinate, and wealthy. So it is that the menfolk of Alfsdal 
+    receive fine dwarven forged steel farm equipment just for the asking - in recompense. 

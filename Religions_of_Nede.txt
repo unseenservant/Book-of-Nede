@@ -1,0 +1,94 @@
+Deities: 
+
+    # Remember, these are just mortals who've become Mythic. There is nothing "Divine" about them. 
+    
+    
+Dwarven_Pantheon:
+    Moradin: 
+        Title: King
+        Alignment: LG
+        Domains:
+          -
+          -
+          -
+          -
+        Dogma:
+        Location:
+        Class:
+          Level:
+          Classes:
+            -
+            -
+    Arbjor: - NE, greed
+    Njarberra: - Queen, family, LG
+    Gjeddin: - Son, War, LG
+    Duerra: - Daughter, Evil, LE
+    Mjorin: - Son, Lore, CG
+    Thoine: - Son, Secrets, N
+    Gormstang: - Grandson, Son of Gjeddin, Protection, LG
+    Haela: - Victory, Granddaughter, Daughter of Gjeddin, CG
+    LaDuguer: - Grandson, Son of Duerra, NE
+    Mjirhammer: - Son, Travel, NG
+    Sharinjar: - Daughter, Mercy, CG
+    Jard: - Grandson, Son of Marthammor, Wilderness, CG
+    Verjoine: - Grandson, Son Thoine, Wealth/Merchants, N
+    
+Elven Pantheon
+    Corethian Sunblade- King, CG
+    Sehanine Moonbow - Queen, CG
+    Aerdie - Winged Creatures, Daughter, CG
+    Aeharad - Life/Fertility, Daughter, CG
+    Sahaelis - Oceans, Son, CG
+    Ereven - Dance/Parties, Son, CN
+    Fenaril - Wilderness, Son, CN
+    Celanil - Artistry/Love, Daughter, CG
+    Labelas - Time, Son, CG
+    Rillifen - Druids, Son, NG 
+    Shavarash - The Hunt, Son of Lolth, CG
+    Solonor - War, Son, CG
+    Aelstilae - good drow, son of lolth + Corethian, CG
+        Drow: 
+            Lolth - ex-Queen, evil, CE
+            Aekiarlee - undead, daughter of lolth, CE
+            Maetelis - bodyguard of Lolth, created by lolth, LE
+            Vhaern - male drow, son of lolth, CE
+
+Halfling Pantheon
+    Arvoreen - Hunt, Daughter, CG
+    Brandobaris - Play, Son, CG
+    Cyrrollalee - Travel, Son, CG
+    Peryoyl - Trickery, Son, CG
+    Urogalan - evil halflings, Son , CE
+    Yondalla - Queen, CG
+
+Gnomish Pantheon
+    Garl Glittergold - King, NG
+    Baervan Wildwanderer - Travel, Son, NG
+    Baravar Cloakshadow - Illusions, Son, CG
+    Callarduran Smoothands - Svirfneblin, Son, N
+    Flandal Steelskin - Paladins, Son, LG
+    Gaerdal Ironhand - Invention, Son, LN
+    Segojan Earthcaller - Druids, Son, N
+    Urdlen - Evil gnomes, NE
+
+Orcish Pantheon
+    Gruumsh - King, CE
+    Bahgtru - Strength, Son, CE
+    Ilneval - War, Son, NE
+    Luthic - female orcs, wife, NE
+    Shargaas - thieves, Son, CE
+    Yurtrus - Disease, Son, NE 
+    
+Human Pantheons
+    Sola - Sun 
+    Noxa - Night
+    Caelis - Sky 
+    Saxon - Earth
+    Sylvanus - Woodlands / Plants 
+    Russo - Farming
+    Pecunia - Merchants
+    Venecus - Evil Magic / Undeath & Death
+    Luxi - Light / Good magic
+    Ientus - Knowledge
+    Rabelus - War
+    Arakis - Aristry / Craftsmen
