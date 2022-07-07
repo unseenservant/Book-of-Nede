@@ -1,10 +1,13 @@
 PlayerCharacters:
-  Olivia: Valka 
-    Occultist: 1
-  Ryan: Luxu Lenson
-    Magus: 1
-  Ludo: Finfer Swiftace
-    Medium: 1
+  Olivia: 
+    - "Valka" 
+    - Occultist: 1
+  Ryan: 
+    - "Luxu Lenson"
+    - Magus: 1
+  Ludo: 
+    - "Finfer Swiftace"
+    - Medium: 1
 
 
 
