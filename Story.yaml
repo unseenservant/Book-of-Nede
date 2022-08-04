@@ -2,13 +2,17 @@ PlayerCharacters:
   Olivia: 
     - "Valka" 
     - Occultist: 1
+    - Alignment: Chaotic Good 
   Ryan: 
     - "Luxu Lenson"
     - Magus: 1
+    - Alignment: Neutral Good
   Ludo: 
-    - "Finfer Swiftace"
-    - Medium: 1
 
+  Amanda:
+    - Shirley House
+    - Investigator: 1
+    - Alignment: Chaotic Neutral
 
 
 Story: |
@@ -150,7 +154,6 @@ NPCs:
       - wooden mask
       - 360 gp
 
-
   - Name: Bertha Klingenläufer
     Race: Human
     Class: 
@@ -175,7 +178,6 @@ NPCs:
       - masterwork heavy crossbow with 20 bolts
       - 63 gp
 
-
   - Name: Idla Trauerhölle
     Race: Human
     Class: 
@@ -186,7 +188,7 @@ NPCs:
       She has rough pink skin.
       She stands 149cm (4'10") tall and has an athletic build.
       She has a round, average face.
-      She rolls her "R"s profusely.
+      She rolls sher "R"s profusely.
     Details: | 
       She is very cynical.
       She is very courageous, to a fault.
@@ -198,7 +200,6 @@ NPCs:
       - lance
       - longsword
       - heavy warhorse
-
 
   - Name: Yexim Quorug Tover Toryn
     Race: Gnome
@@ -218,13 +219,13 @@ NPCs:
       He likes to swim.
       He knows all the gossip around town.
     Equipment: 
-      - Combat Gear potion of cure light wounds
+      - potion of cure light wounds
       - potion of lesser restoration
       - potion of protection from good 
       - masterwork chainmail
       - masterwork greataxe
       - masterwork sling with 10 bullets
-      - climber’s kit
+      - climbers kit
       - 250 gp
 
 ################
