@@ -11,5 +11,5 @@ Elder Gods (Outer Gods)
 | I'Oz | Old Smoke | Kao, the Facestealer | Mind, Insanity, Nightmares, Occult, Spirits |
 | Zh'Ash | The Man in the Mist | The Cordyceps Mound | Death, Rot, Plague, Revenge, Vengeance |
 | Az'Arot | The Great Dreamer | --- | Moon, Space, Stars, Time, Entropy, Dimensions, Boundaries |
-| Khi'Zog | The Fickle Wind | The Two Fingers | Storms, Water |
+| Khi'Zog | The Fickle Wind | The Leviathan | Storms, Water |
 | So'Yog | The All-Seeing Eye | The Fluttering Eye | Wisdom, Fate, Portents |
