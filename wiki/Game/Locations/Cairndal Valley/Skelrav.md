@@ -1,5 +1,7 @@
 # Skelgrav
 
+![Skelgrav](/src/skelgrav.png "Skelgrav")
+
 ## Description: 
 An old stone ruin of an ancient temple or fortress belonging to some forgotten civilization. The ruins locals call "Skelgrav" is a taboo for the people of the valley below. However, foolish children still make dares to go up and touch one of the pillars - which still bares the weight of the mighty structure overshadowing the village below. Thoughout its recorded history, the upper levels of the ruin have been home to some visiting monsters; ranging from goblin tribes to deadlier things. Though the ruins lower levels have never been explored to anyone's knowledge. The upper pillars and walls are reported to have eerie symbols and strange busts visibly etched deep into the granite that forms the walls and structure.
 
