@@ -40,9 +40,9 @@ Init +4; Senses darkvision 60 ft. all-around vision, scent,; Perception +12
 
 ##### DEFENSE
 
-AC 17, touch 8, flat-footed 16 (+9 natural, –2 size) \
+AC 19, touch 10, flat-footed 18 (+9 natural, –2 size, insight +2) \
 hp 46 (4d8+28) \
-Fort +9, Ref +1, Will +1 \ 
+Fort +11, Ref +3, Will +1 \ 
 Immune to electricty and poison \
 Resistance to acid 10, cold 10, and fire 10 \
 DR 5/cold iron
@@ -82,3 +82,6 @@ By rubbing its wings or limbs together as a standard action, the demonic vermin 
 
 Skitter (Ex) \
 The creature has uncanny speed and erratic movements. The vermin’s speeds all increase by 10 feet, it gains Mobility and Spring Attack as bonus feats, and it gains a +4 racial bonus on Initiative checks.
+
+Prophetic Insight (Su) \
+Three times per day as an immediate action, the prophecy-addled creature can reroll any one d20 roll that it has just made before the results of the roll are revealed. It must take the result of the reroll, even if it’s worse than the original roll.
