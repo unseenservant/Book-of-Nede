@@ -24,3 +24,61 @@ These Elves turned to the Witchcraft of **Zh'Ash, the Man in the Mist** and fore
 Eventually, the wickedness of these Elves brought a sickness and death once more to the valley and surrounding regions. Which lingered as a place of doom and fear by the time the Age of Orcs had begun. 
 
 When the Founding came, Luxi's army - on it's purge northward of the Orcish menace found the sick valley. The goddess of light entered with her host the dark temple of the ancient Elves; and placed upon it a seal of her own power - not knowing the dark purposes of what lay beneath. 
+
+## Things to Note: 
+
+- Elven prayers etched in the walls, revealed by 'elfsight' & the light of Frostfire 
+- Elven incense as *hide from undead* 
+- The Centipede Prophet
+- The Warforged 
+
+### The Centipede Prophet, Giant Whiptail CR 4
+
+XP 800 \
+CE Huge magical beast(demon) \
+Init +4; Senses darkvision 60 ft. all-around vision, scent,; Perception +12 
+
+##### DEFENSE
+
+AC 17, touch 8, flat-footed 16 (+9 natural, –2 size) \
+hp 46 (4d8+28) \
+Fort +9, Ref +1, Will +1 \ 
+Immune to electricty and poison \
+Resistance to acid 10, cold 10, and fire 10 \
+DR 5/cold iron
+
+
+
+##### OFFENSE
+
+Speed 40 ft., climb 40 ft. \
+Melee bite +10 (2d6+9 plus poison plus disease), tail slap +5 (1d3 nonlethal plus trip) \
+Space 15 ft.; Reach 15 ft. (20 ft. with tail slap)
+
+##### STATISTICS
+
+Str 29, Dex 11, Con 23, Int 10, Wis 10, Cha 15 \
+Base Atk +3; CMB +14; CMD 23 (can’t be tripped) \
+Feats: Toughness, Mobility, Spring Attack, Stealthy, Sow Terror
+Skills Climb +15, Stealth +10; Racial Modifiers +8 Climb, +12 Perception \
+SQ compression
+
+##### SPECIAL ABILITIES
+
+Poison (Ex) \
+Bite—injury; save Fort DC 17; frequency 1/round for 6 rounds; effect 1d4 Dex; cure 1 save. The save DC is Constitution-based.
+
+Tail Slap (Ex) \
+A giant whiptail centipede’s tail slap deals nonlethal damage and gains no bonus from its Strength score on damage dealt.
+
+Additional Senses (Ex) \
+The vermin has a large number of extra eyes and other sensory organs. It gains all-around vision, scent, and a +8 racial bonus on Perception checks.
+
+Diseased (Su) \
+The demonic vermin is immune to disease, and its natural attacks inflict demonplague on a hit (Fortitude save negates).
+
+Drone (Su) \
+By rubbing its wings or limbs together as a standard action, the demonic vermin produces a loud, discordant drone that causes those within 30 feet of it to become sickened for 1d6 rounds (Will save negates). This is a sonic mind-affecting effect.
+
+Skitter (Ex) \
+The creature has uncanny speed and erratic movements. The vermin’s speeds all increase by 10 feet, it gains Mobility and Spring Attack as bonus feats, and it gains a +4 racial bonus on Initiative checks.
