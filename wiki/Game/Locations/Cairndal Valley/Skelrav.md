@@ -32,7 +32,7 @@ When the Founding came, Luxi's army - on it's purge northward of the Orcish mena
 - The Centipede Prophet
 - The Warforged 
 
-### The Centipede Prophet, Giant Whiptail CR 4
+### The Centipede Prophet, Prophecy-Addled Demonic Giant Whiptail Centipede CR 5
 
 XP 800 \
 CE Huge magical beast(demon) \
