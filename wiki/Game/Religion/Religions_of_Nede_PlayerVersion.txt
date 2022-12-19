@@ -63,7 +63,7 @@ Orcish Pantheon
     Yurtrus - Disease, NE 
     
 Human Pantheons
-    Sola - Sun 
+    Sola - Day 
     Noxa - Night
     Caelis - Sky 
     Saxon - Earth

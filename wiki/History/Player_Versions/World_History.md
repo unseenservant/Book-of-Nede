@@ -31,7 +31,7 @@ From the depths of the Portals came vile nightmares unimagined. These monsters b
 
 The last children of the **Titans** eventually rose up with the arts of their wonders to beat back the **nightmares** and reclaim the world - the Elves and the Dwarves. The Elves use their **Soul Songs** to shape Ghostwood into mighty weapons; while the Dwarves used **Titancraft** to forge the **Great Golems** and **Warforged** legions. Ushering in a new age of wood & steel. 
 
-## Age of Wood & Steel
+## Age of Leaf & Steel
 
 In this time, the great heroes of Elven myth and Dwarvish legend were born. The great weapons of war wrought by them which had devastated the **nightmares** were now the instruments in creating a new great age. They set the bounds of their empires across the face of Naede; The elves above and the Dwarves below. The other mortals were slaves or fiefs to their domination and the power was not in any other to resist them.
 
@@ -62,6 +62,6 @@ Many lands that were restored, were ruined anew, burned sterile by the **divine 
 | Age of the Goblins | The Goblinoids | ??? |
 | Titanic Age | The "Titans" | Monsters from the Portals |
 | Age of Scales | The "Nightmares", Troglodytes & Lizardfolk | Rise of Elves & Dwarves |
-| Age of Wood & Steel | Elven Emperors and Dwarven Kings | The Coming of the Orcs | 
+| Age of Leaf & Steel | Elven Emperors and Dwarven Kings | The Coming of the Orcs | 
 | Age of the Orc | The House of Gruumsh | The Founding Alliance |
 | The Founding | Men, and all mortal races | --- |
