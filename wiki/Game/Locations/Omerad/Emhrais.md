@@ -24,6 +24,15 @@ Government: Overlord
 Population: 32,145
 
 ## Noteable NPCs
+- King: High King Retfaer Emhyr IV
+- Queen: Royal Consort Aerilla Emhyr 
+- Spymaster: Aevar Tryggsson
+- Court Wizard: Viscount Quaker Mistletoes
+- Crazy Person: Dr. Orpheus 'Slodi' Fungopopple
+
+
+## DESCRIPTION
+
 
 ## MARKETPLACE
 
