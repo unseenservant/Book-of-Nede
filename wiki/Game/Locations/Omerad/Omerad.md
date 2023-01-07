@@ -8,8 +8,33 @@ The Kingdom is bordered by 3 neighbor nations. The Kingdom of Besogad to the Wes
 
 ## History
 
+The Kingdom of Omerad is found in the transitory lands between 2 different penninsulae and the crossroads of continents. One of the uttermost nations in **The Northlands**, it has always been dominated by the jagged mountains that sever its landscape into small valleys. 
+
+The tundral landscape of this part of the north was once home to some of the great strongholds of the **Age of Titans** and in their glory were unassailable defenses against the **Colors of Cold**. It's remote and frigid clime made it an ideal place for the Titans to fortify against the more populace Goblin hordes in the equatorial regions to the south. 
+
+By the end of the **Age of the Slaad** the region had been abandoned from the razing the forces of chaos had wrought. Leaving it's ancient subterranean caverns a luxurious and open estate for the Dwarven rise to power. 
+
+Dwarvish culture has flourished in the Northlands and especially Omerad ever since - giving rise to one of their greatest cities, **Silverroot**. 
+
+Though the area was ravaged so cleanly by the **Age of Orcs** that few testaments to the Dwarven supremacy remain on the surface. 
+
+Humans have dwelt in the valleys of the Northlands for thousands of years - initally just under the watchful eye of the Dwarven Primarchs; and the iron foot of the Orcs. 
+
+Since **the Founding** however, the Goddess Luxi had brought her great host through these lands to cleanse the Orcish menace. Establishing order and setting many young human lords up to found kingdoms of their own in the cold mountain vales. 
+
+Since that time, dozens of human kingdoms have risen and fallen.
+
 ### Recent History 
 
+In the past 400 years, The human Kingdom of Omerad was established in these transitory lands by the remnants of an even more ancient (now) defeated kingdom. 
+
+Formed by a coalition of lordlings representing different and vanquished tribal identities, the chiefs elected a High King to rule over them. This unification lead to a prosperous return to power and cohesion - leading to an establishing victory that settled their territorial challenges. 
+
+Within the last 200 years, the line of Emhyr has claimed the Omerad throne; he and his descendants have gone on to win and lose several wars against their bitter rivals to the south **Fjenst**. 
+
+In the last 50 years, there have been several wars with **Fjenst** as the expansionist Queendom pressures northward for further conquest and the precious metals of the Omeran mountains. 
+
+A total of 6 wars have been fought in the last 50 years; **the Last War** taking place only 6 years ago (from campaign start)
 
 ## Culture
 
