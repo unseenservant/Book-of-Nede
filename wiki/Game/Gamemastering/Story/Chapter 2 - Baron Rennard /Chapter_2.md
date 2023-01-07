@@ -15,7 +15,7 @@ With the **Key** to **the Book of Nede** in their possession, the PCs will inevi
 
 | Knowledge (Esoterica) | Result | 
 | --- | --- |
-| DC 10 | Sigilmetry is a form of magic where the forces at play are described in mathematics and geometry diagram0s. Those who use this **Ancient** form of magic are called Geometers. |
+| DC 10 | Sigilmetry is a form of magic where the forces at play are described in mathematics and geometry diagrams. Those who use this **Ancient** form of magic are called Geometers. |
 | DC 15 | the practice of Sigilmetry is very ancient, only seen in a rudimetary form in *Glyph* & *Symbol* spells. **Ikkar** mages, **The Wisemen of Finzelzin**, & perhaps the University at **Heinburg** are the most likely places to find knowledgable scholars on Sigilmetry |
 | DC 20 | Sigilmetric forces underpin the power of many magic schools; Summoning circles, Abjurative diagrams, the **Symbol** & **Glyph** Spells. But their power comes from describing (or changing) the fundamental properties of reality. To be a master of Sigilmetry is akin to being a master of **True Names**. The **Book of Nede** is a collection of the most powerful Sigils, because this legendary book describes the world of Nede itself. |
 | DC 25 | **Sigilmetry** has diagrams to represent other plans as well, and can equally affect those outer realms. **The Book of Nede** is so profound, because it has descriptions of all the planes, not just the material plane. | 
