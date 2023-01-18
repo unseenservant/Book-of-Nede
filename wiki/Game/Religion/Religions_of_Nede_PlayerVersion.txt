@@ -17,19 +17,19 @@ Dwarven Pantheon
     Verjoine - Wealth/Merchants, N
     
 Elven Pantheon
-    Corethian Sunblade- King, CG
-    Sehanine Moonbow - Queen, CG
-    Aerdie - Winged Creatures, CG
-    Aeharad - Life/Fertility, CG
-    Sahaelis - Oceans, CG
-    Ereven - Dance/Parties, CN
-    Fenaril - Wilderness, CN
-    Celanil - Artistry/Love, CG
-    Labelas - Time, CG
-    Rillifen - Druids, NG 
-    Shavarash - The Hunt, CG
-    Solonor - War, CG
-    Aelstilae - good drow, CG
+    Corethian Sunblade- King, CG; Domains: Chaos[Whimsy], Good, Sun[Thirst], War[Duels]
+    Sehanine Moonbow - Queen, CG; Domains: Chaos, Good, Darkness[Moon], Luck[Fate]
+    Aerdie - Winged Creatures, CG; Domains: Chaos, Good, Air[Wind], Animal[Feather]
+    Aeharad - Life/Fertility, CG; Domains: Chaos, Good[Friendship], Healing[Restoration], Charm[Love]
+    Sahaelis - Oceans, CG; Chaos, Good, Water[Oceans], Weather[Storms]
+    Ereven - Dance/Parties, CN; Chaos[Revelry], Nobility[Aristocracy], Charm[Lust], Trickery[Innuendo]
+    Fenaril - Wilderness, CN; Chaos, Air[Clouds], Travel[Exploration], Liberation[Self-Realization], 
+    Celanil - Artistry/Love, CG; Chaos, Good, Charm[Love, Lust], Artifice
+    Labelas - Time, CG; Chaos[Entropy], Good, Knowledge[Memory], Darkness[Moon]
+    Rillifen - Druids, NG ; Domains: Air, Earth, Fire, Water
+    Shavarash - The Hunt, CG; Destruction[Hatred], Death[Murder], War[Tactics], Trickery[Ambush]
+    Solonor - War, CG; Domains: Glory[Legend], Good[Redemption], War[Duels], Protection[Defense]
+    Aelstilae - good drow, CG: Domains: Void[Isolaton], Earth[Caves], Darkness[Loss], Liberation[Revolution]
         Drow: 
             Lolth - ex-Queen, evil, CE
             Aekiarlee - undead, CE
@@ -63,15 +63,15 @@ Orcish Pantheon
     Yurtrus - Disease, NE 
     
 Human Pantheons
-    Sola - Day 
-    Noxa - Night
-    Caelis - Sky 
-    Saxon - Earth
-    Sylvanus - Woodlands / Plants 
-    Russo - Farming
-    Pecunia - Merchants
-    Venecus - Evil Magic / Undeath & Death
-    Luxi - Light / Good magic
-    Ientus - Knowledge
-    Rabelus - War
-    Arakis - Aristry / Craftsmen
+   LG Sola - Day ; Domains: Good, Law, Glory[Honor] , Sun[Day]
+   CG Noxa - Night; Domains: Chaos, Good, Darkness[Night], Void[Stars]
+   CN Caelis - Sky; Domains: Chaos, Weather[Seasons], Air, Travel[Exploration]
+   LN Saxon - Earth ; Domains: Law, Animal, Earth[Caves, Metal], Strength[Resolve]
+   N Sylvanus - Woodlands / Plants; Domains: Plant[Thorns], Water[Rivers], Erosion, Liberation[Freedom]
+   LN Russo - Farming; Domains: Law, Plant[Growth], Community[Family], Artifice[Toil]
+   CN Pecunia - Merchants; Domains: Chaos, Travel[Trade], Trickery[Greed], Charm[Captivation]
+   NE Venecus - Evil Magic / Undeath & Death; Domains: Evil, Repose[Souls], Death[Undead], Luck[Curse]
+   NG Luxi - Light / Good magic; Domains: Good, Sun[Light, Revelation], Magic[Divine], Protection[Purity]
+   LN Ientus - Knowledge; Domains: Law, Knowledge[Education], Healing[Medicine], 
+   LE Rabelus - War; Domains: Law, Evil, Glory[Heroism], War[Blood]
+   CG Arakis - Aristry / Craftsmen; Domains: Good, Chaos, Artifice, Community[Cooperation]
