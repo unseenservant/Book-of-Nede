@@ -1,20 +1,20 @@
 Deities: 
     
 Dwarven Pantheon
-    Moradin - king, LG
-    Arbjor - NE, greed
-    Njarberra - Queen, family, LG
-    Gjeddin - War, LG
-    Duerra - Evil, LE
-    Mjorin - Lore, CG
-    Thoine - Secrets, N
-    Gormstang - Protection, LG
-    Haela - Victory, CG
-    LaDuguer - Ultimate Evil (The Devil), NE
-    Mjirhammer - Travel, NG
-    Sharinjar - Mercy, CG
-    Jard - Wilderness, CG
-    Verjoine - Wealth/Merchants, N
+    Moradin - king, LG ; Domains: Law[Judgement], Good, Protection[Fortifications], Artifice[Industry]
+    Arbjor - NE, greed; Domains: Evil, Trickery[Greed], Artifice[Construct], Earth[Metal]
+    Njarberra - Queen, family, LG; Domains: Law, Good, Community[Family], Protection[Defense]
+    Gjeddin - War, LG; Domains: Law, Good, Nobility[Leadership], Stength[Resolve]
+    Duerra - Evil, LE; Domains: Law[Slavery], Evil[Fear], Nobility[Hubris], Rune[Wards]
+    Mjorin - Lore, CG; Domains: Chaos, Rune[Legislation], Knowledge[Education], Protection[Solitude]
+    Thoine - Secrets, N; Domains: Knowledge[Espionage], Rune[Wards], Earth[Caves], Madness[Truth]
+    Gormstang - Protection, LG; Domains: Law[Loyalty], Good, Protection[Defense], Glory[Honor]
+    Haela - Victory, CG; Domains: Chaos, Good[Redemption], Glory[Honor], Luck[Fate]
+    LaDuguer - Ultimate Evil (The Devil), NE; Domains: Evil[Corruption], Madness[Insanity], Void[Isolation], Erosion
+    Mjirhammer - Travel, NG; Domains: Good, Travel[Portal], Community[Cooperation], Strength[Competition], Rune
+    Sharinjar - Mercy, CG; Chaos, Good[Redemption], Glory[Honor], Healing[Medicine], Protection[Purity]
+    Jard - Wilderness, CG; Domains: Chaos[Revelry], Good, Air[Lightning], Weather[Storms]
+    Verjoine - Wealth/Merchants, N: Travel[Trade], Artifice[Industry], Community[Cooperation], Earth[Metal]
     
 Elven Pantheon
     Corethian Sunblade- King, CG; Domains: Chaos[Whimsy], Good, Sun[Thirst], War[Duels]
@@ -67,7 +67,7 @@ Human Pantheons
    CG Noxa - Night; Domains: Chaos, Good, Darkness[Night], Void[Stars]
    CN Caelis - Sky; Domains: Chaos, Weather[Seasons], Air, Travel[Exploration]
    LN Saxon - Earth ; Domains: Law, Animal, Earth[Caves, Metal], Strength[Resolve]
-   N Sylvanus - Woodlands / Plants; Domains: Plant[Thorns], Water[Rivers], Erosion, Liberation[Freedom]
+   N Sylvanus - Woodlands / Plants; Domains: Plant[Thorns], Water[Rivers], Erosion, Ruins
    LN Russo - Farming; Domains: Law, Plant[Growth], Community[Family], Artifice[Toil]
    CN Pecunia - Merchants; Domains: Chaos, Travel[Trade], Trickery[Greed], Charm[Captivation]
    NE Venecus - Evil Magic / Undeath & Death; Domains: Evil, Repose[Souls], Death[Undead], Luck[Curse]
