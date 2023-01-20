@@ -55,12 +55,12 @@ Gnomish Pantheon
     Urdlen - Evil gnomes, NE
 
 Orcish Pantheon
-    Gruumsh - King, CE
-    Bahgtru - Strength, CE
-    Ilneval - War, NE
-    Luthic - female orcs, NE
-    Shargaas - thieves, CE
-    Yurtrus - Disease, NE 
+    Gruumsh - King, CE; Domains: Chaos, Evil[Demon], War[Blood], Strength[Ferocity]
+    Bahgtru - Strength, CE ; Domains: Chaos, Evil, Strength[Competition], Destruction[Rage]
+    Ilneval - War, NE; Domains: Evil[Fear], Strength[Resolve], War[Tactics], Fire[Arson]
+    Luthic - female orcs, NE; Domains: Evil, Artifice[Toil], Community[Family], Charm[Lust]
+    Shargaas - thieves, CE; Domains: Chaos, Evil, Trickery[Thievery], Knowledge[Espionage]
+    Yurtrus - Disease, NE ; Domains: Evil[Cannabalism], Death[Plague], Plant[Decay], Destruction[Torture]
     
 Human Pantheons
    LG Sola - Day ; Domains: Good, Law, Glory[Honor] , Sun[Day]
