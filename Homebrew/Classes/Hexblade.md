@@ -28,23 +28,23 @@ Though a capable melee combatant, the hexblade relies on opportunistic use of hi
     1st	    +1	            +0/+0/+2	Witch's familiar                            —	—	—	—
     2nd	    +2	            +0/+0/+3	Eldritch Resistance, Eldritch Pool          —	—	—	—
     3rd	    +3	            +1/+1/+3	Misfortune-Hex  	                        —	—	—	—
-    4th	    +4	            +1/+1/+4	Patron spells, Mettle		                —	—	—   —
-    5th	    +5	            +1/+1/+4	Elder Mystery      	                        0	—	—	—
+    4th	    +4	            +1/+1/+4	Patron spells, Mettle		                0	—	—   —
+    5th	    +5	            +1/+1/+4	Elder Mystery      	                        1	—	—	—
     6th	    +6/+1	        +2/+2/+5	Hex	                                        1	—	—	—
-    7th	    +7/+2	        +2/+2/+5	Greater Misfortune Hex   	                1	—	—	—
-    8th	    +8/+3	        +2/+2/+6    Elder Mystery                               1	0	—	—
-    9th	    +9/+4	        +3/+3/+6	Hex	                                        1	0	—	—
-    10th	+10/+5	        +3/+3/+7	Baleful Aura                                1	1	—	—
-    11th	+11/+6/+1	    +3/+3/+7	Elder Mystery                               1	1	0	—
-    12th	+12/+7/+2	    +4/+4/+8	Major Hex, Hex 	                            1	1	1	—
-    13th	+13/+8/+3	    +4/+4/+8	Hide in Plain Sight                         1	1	1	—
-    14th	+14/+9/+4	    +4/+4/+9	Elder Mystery                               2	1	1	0
-    15th	+15/+10/+5	    +5/+5/+9	Hex                                         2	1	1	1
-    16th	+16/+11/+6/+1	+5/+5/+10	Greater Baleful Aura                        2	2	1	1
-    17th	+17/+12/+7/+2	+5/+5/+10	Elder Mystery                               2	2	2	1
-    18th	+18/+13/+8/+3	+6/+6/+11	Grand Hex, Hex 	                            3	2	2	1
-    19th	+19/+14/+9/+4	+6/+6/+11	Dire Misfortune Hex                         3	3	3	2
-    20th	+20/+15/+10/+5	+6/+6/+12	Baleful Lord                                3	3	3	3
+    7th	    +7/+2	        +2/+2/+5	Greater Misfortune Hex   	                1	0	—	—
+    8th	    +8/+3	        +2/+2/+6    Elder Mystery                               1	1	—	—
+    9th	    +9/+4	        +3/+3/+6	Hex	                                        2	1	—	—
+    10th	+10/+5	        +3/+3/+7	Baleful Aura                                2	1	0	—
+    11th	+11/+6/+1	    +3/+3/+7	Elder Mystery                               2	1	1	—
+    12th	+12/+7/+2	    +4/+4/+8	Major Hex, Hex 	                            2	2	1	—
+    13th	+13/+8/+3	    +4/+4/+8	Hide in Plain Sight                         3	2	1	0
+    14th	+14/+9/+4	    +4/+4/+9	Elder Mystery                               3	2	1	1
+    15th	+15/+10/+5	    +5/+5/+9	Hex                                         3	2	2	1
+    16th	+16/+11/+6/+1	+5/+5/+10	Greater Baleful Aura                        3	3	2	1
+    17th	+17/+12/+7/+2	+5/+5/+10	Elder Mystery                               4	3	2	1
+    18th	+18/+13/+8/+3	+6/+6/+11	Grand Hex, Hex 	                            4	3	2	2
+    19th	+19/+14/+9/+4	+6/+6/+11	Dire Misfortune Hex                         4	3	3	2
+    20th	+20/+15/+10/+5	+6/+6/+12	Baleful Lord                                4	4	3	3
 ```
 
 ## Class Features
