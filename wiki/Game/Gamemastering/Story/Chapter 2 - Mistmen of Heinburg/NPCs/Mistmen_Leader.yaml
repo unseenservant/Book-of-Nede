@@ -1,26 +1,101 @@
 --- 
 Name: "Schlecter Stein"
 Race: "Human"
+Abilities: 
+  - str: 8   
+  - dex: 14  
+  - con: 12  
+  - int: 16  
+  - wis: 10  
+  - cha: 14  
 Class: 
-  - Name: "Hexblade"
-  - Level: 14
+  - Name: "Blade Adept Unlettered Arcanist"
+  - Level: 9
 Defenses: 
-  - Fort: 4
-  - Reflex: 4
-  - Will: 9
-Combat:
   - HP: 100
-  - AC: 21
+  - AC: 24
+    Formula: (10 + 2 Dex + 3 Defending + 4 Mage Armor + 3 Nereid’s Grace + 2 Anticipate Thoughts)
+  - Saves:
+    Fort: 3
+    Reflex: 3
+    Will: 6
+Combat:
+  - Initiative: +10
+  - BAB: 4
+  - Combat Maneuver: 
+    CMB: 3
+    CMD: 15
   - Attacks: 
-    Weapon: 14+1
+    Black Blade (Scimitar): +1 | 2d6+2
+Special Abilities:
+  - Arcane Resevoir: 12
+  - Arcanist Exploits:
+    - Sword Bond
+    - Sentient Sword
+    - Spellstrike
+    - Arcane Weapon
+    - Potent Magic
+    - Rift Fog
+  - Feats: 
+    Human: 'Weapon Finesse'
+    1st: 'Extra Arcanist Exploit (School Understanding: Divination)'
+    3rd: 'Extra Arcanist Exploit (Potent Magic)'
+    5th: 'Weapon Focus'
+    7th: 'Slashing Grace'
+    9th: 'Extra Arcanist Exploit (Rift Fog)' 
+Spells: 
+  - DC: 13
+  - 0th: ∞/day of 8 prepared of ∞ known
+      Arcane Mark		            
+      Bleed		                  
+      Dancing Lights	          
+      Daze		                  
+      Detect Magic		          
+      Detect Poison		          
+      Guidance		              
+      Light		                  
+      Mending		                
+      Message		                
+      Putrefy Food and Drink		
+      Read Magic		            
+      Resistance		            
+      Spark		                  
+      Stabilize		              
+      Touch of Fatigue
+  - 1st: 4/day of 5 prepared of 12 known
+      Mage Armor
+      Command
+      Sow Thought
+      Sleep
+      Snowball
+      Nereid’s Grace
+      Ill Omen
+      Inflict Light Wounds
+      Identify
+      Hex Ward
+      Lock Gaze (use with Accursed Glare)
+      Lay of the Land
+  - 2nd: 4/day of 4 prepared of 4 known
+      See Invisibility
+      Touch of Idiocy
+      Wraithstrike (3.5)
+      Anticipate Thoughts
+  - 3rd: 4/day of 3 prepared of 4 known
+      Strangling Hair
+      Bestow Curse
+      Accursed Glare
+      Akashic Communion
+  - 4th: 3/day of 2 prepared of 4 known
+      Infernal Healing, Greater
+      Touch of Slime
+      Cape of Wasps
+      Scrying
 
---- 
-DC: 18
 
-str 10
-dex 14
-con 14
-int 12
-wis 8 
-cha 16
+
+
+
+
+
+
 
