@@ -1,9 +1,26 @@
 --- 
 Name: "Schlecter Stein"
 Race: "Human"
-Class: "Hexblade"
+Class: 
+  - Name: "Hexblade"
+  - Level: 14
+Defenses: 
+  - Fort: 4
+  - Reflex: 4
+  - Will: 9
 Combat:
-  - HP: 
-  - AC: 
+  - HP: 100
+  - AC: 21
   - Attacks: 
-    bacon: 
+    Weapon: 14+1
+
+--- 
+DC: 18
+
+str 10
+dex 14
+con 14
+int 12
+wis 8 
+cha 16
+
