@@ -3,32 +3,32 @@ Name: "Schlecter Stein"
 Race: "Human"
 Abilities: 
   - str: 8   
-  - dex: 14  
+  - dex: 16  
   - con: 12  
-  - int: 16  
+  - int: 18  
   - wis: 10  
-  - cha: 14  
+  - cha: 16  
 Class: 
   - Name: "Blade Adept Unlettered Arcanist"
   - Level: 9
 Defenses: 
   - HP: 100
-  - AC: 24
-    Formula: (10 + 2 Dex + 3 Defending + 4 Mage Armor + 3 Nereid’s Grace + 2 Anticipate Thoughts)
+  - AC: 25
+    Formula: (10 + 3 Dex + 3 Defending + 4 Mage Armor + 3 Nereid’s Grace + 2 Anticipate Thoughts)
   - Saves:
-    Fort: 3
-    Reflex: 3
-    Will: 6
+    Fort: 5 
+    Reflex: 5
+    Will: 8
 Combat:
-  - Initiative: +10
+  - Initiative: +11
   - BAB: 4
   - Combat Maneuver: 
     CMB: 3
-    CMD: 15
+    CMD: 16
   - Attacks: 
-    Black Blade (Scimitar): +1 | 2d6+2
+    Black Blade (+3 Scimitar, Defending, Keen)): +7 | 2d6+3 (15-20x2)
 Special Abilities:
-  - Arcane Resevoir: 12
+  - Arcane Resevoir: 13
   - Arcanist Exploits:
     - Sword Bond
     - Sentient Sword
@@ -44,7 +44,7 @@ Special Abilities:
     7th: 'Slashing Grace'
     9th: 'Extra Arcanist Exploit (Rift Fog)' 
 Spells: 
-  - DC: 13
+  - DC: 16
   - 0th: ∞/day of 8 prepared of ∞ known
       Arcane Mark		            
       Bleed		                  
@@ -62,7 +62,7 @@ Spells:
       Spark		                  
       Stabilize		              
       Touch of Fatigue
-  - 1st: 4/day of 5 prepared of 12 known
+  - 1st: 5/day of 5 prepared of 12 known
       Mage Armor
       Command
       Sow Thought
@@ -75,21 +75,22 @@ Spells:
       Hex Ward
       Lock Gaze (use with Accursed Glare)
       Lay of the Land
-  - 2nd: 4/day of 4 prepared of 4 known
+  - 2nd: 5/day of 4 prepared of 4 known
       See Invisibility
       Touch of Idiocy
       Wraithstrike (3.5)
       Anticipate Thoughts
-  - 3rd: 4/day of 3 prepared of 4 known
+  - 3rd: 5/day of 3 prepared of 4 known
       Strangling Hair
       Bestow Curse
       Accursed Glare
       Akashic Communion
-  - 4th: 3/day of 2 prepared of 4 known
+  - 4th: 4/day of 2 prepared of 4 known
       Infernal Healing, Greater
       Touch of Slime
       Cape of Wasps
       Scrying
+      Foretell Failure
 
 
 
