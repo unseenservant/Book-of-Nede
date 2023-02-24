@@ -3,8 +3,8 @@ Name: "Schlecter Stein"
 Race: "Human"
 Abilities: 
   - str: 8   
-  - dex: 16  
-  - con: 12  
+  - dex: 18 (cat's grace)  
+  - con: 16 (bear's endurance)  
   - int: 18  
   - wis: 10  
   - cha: 16  
@@ -12,21 +12,22 @@ Class:
   - Name: "Blade Adept Unlettered Arcanist"
   - Level: 9
 Defenses: 
-  - HP: 100
-  - AC: 25
-    Formula: (10 + 3 Dex + 3 Defending + 4 Mage Armor + 3 Nereid’s Grace + 2 Anticipate Thoughts)
+  - HP: 81 
+  - AC: 30
+    Formula: (10 + 4 Dex + 3 Defending + 4 Mage Armor + 4 Shield + 3 Nereid’s Grace + 2 Anticipate Thoughts)
+  - Fast Healing: 4
   - Saves:
     Fort: 5 
     Reflex: 5
     Will: 8
 Combat:
-  - Initiative: +11
+  - Initiative: +12
   - BAB: 4
   - Combat Maneuver: 
     CMB: 3
-    CMD: 16
+    CMD: 17
   - Attacks: 
-    Black Blade (+3 Scimitar, Defending, Keen)): +7 | 2d6+3 (15-20x2)
+    Black Blade (+3 Scimitar, Defending, Keen)): +9 | 1d6+4+1d6(acid) (15-20x2)
 Special Abilities:
   - Arcane Resevoir: 13
   - Arcanist Exploits:
@@ -73,8 +74,8 @@ Spells:
       Inflict Light Wounds
       Identify
       Hex Ward
-      Lock Gaze (use with Accursed Glare)
       Lay of the Land
+      Shield 
   - 2nd: 5/day of 4 prepared of 4 known
       See Invisibility
       Touch of Idiocy
