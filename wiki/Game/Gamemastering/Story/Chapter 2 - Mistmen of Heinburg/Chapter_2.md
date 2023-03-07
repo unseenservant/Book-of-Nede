@@ -67,24 +67,40 @@ Part 1:
 - Docks 
 - Outside QZ
 - Intro Last Laugh Thieves 
-Part 2:
-- Royal Manor, Schoner Turm (where Phillip Heiner will invite the PCs to join **Schlecter Stein**'s cult) 
-- Last Laugh Safe House, after the burglary
-Part 3:
-- Infiltrating the Mistmen
-Part 4:
-- into the Sewers
-- LL HQ
-- Mistmen HQ & BBEG 
+### Part 2
+#### Schoner Turm
+- LL is Robbing the **Montagu Estate**, has captured 
+    - Ulrich & Sybil
+    - Phillip as well
+- PCs disrupt the robbery, possibly chasing the LL
+- Phillip Heiner invites the PCs to join Sq&Com
+#### Last Laugh Safe House (optional)
+- Optional: LL Safehouse
+    - Item: Map to LL HQ & Key to doors in LL HQ
 
 
-### (New) Key Items 
+### Part 3
+#### Square & Compass Sanctum
+- If the PCs complete the membership ritual, they are captured. Else, they will likely have to fight their way out and come to the Sanctum via the map. 
+    - Item (only if fighting): Map to Sanctum & Entry password
 
-- **The Tablet of Asthenia**: This ancient black tablet is written in coded Elven, using the Aklo script - and is a translation of an even older Phaerimm manuscript. It was created by the Elves of Skelgrav long ago, and details their understanding of the Phaerimm Temple beneath their feet. As it is contained on the Tablet, it details the prophecy of **Zh'Ash** coming into the world hypostatically; one day meeting with and destroying his Errant herald **The Cordyceps Mound**. The Tablet also illustrates the Phaerimm Temple's operation and contains the instructions needed to bypass it's formidable security. 
+### Part 4
+#### Into the Sewers
+- Optional: If the PCs found the map in the LL HQ, they can come via the Sewers. Elif; they will have to be captured by the Sq&Com; Else, they'll have to come via the map. 
+- The LL HQ & Sanctum are underneath **Pecunia's Tower** 
+#### LL HQ + Xardox
+- Key Items: Letters from **Pecunia** to/from **Xardox** indicating a business relationship & Patronage by the Goddess. Map & Key to Panoptus 
+- 
+#### Mistmen HQ & Schlecter 
+- Key Items: The Tablet of Asthenia, Grimoire of Tasha the Black, Black Blade, Rod of Noxa
+
+#### (New) Key Items 
+
+- **The Tablet of Asthenia**: This ancient black tablet is written using the Phaerimm language but in the Elven Alphabet, encoded using a Phaerimm Cipher - and is a translation of an even older Phaerimm manuscript. It was created by the Elves of Skelgrav long ago, and details their understanding of the Phaerimm Temple beneath their feet. As it is contained on the Tablet, it details the prophecy of **Zh'Ash** coming into the world hypostatically; one day meeting with and destroying his Errant herald **The Cordyceps Mound**. The Tablet also illustrates the Phaerimm Temple's operation and contains the instructions needed to bypass it's formidable security. *It can only be translated at Finzelzin*
 
 - **Grimoire of Tasha the Black**: This book of spells contains many dark magicks (some 3.5 spells), and crosses many Witch and Wizard spells bridging the gap between the Arcane and Occult worlds of magic. **Tasha the Black** lived during **The Founding** and was a powerful Witch of **The Shadow**, in the form of **Yormungandr**. While she perished in the Wars that followed **The Founding**; her booked survived. 
 
-- **Schlecter Stein**'s Black Blade: Created by Schelcter binding the soul of a Familiar in service to **Rot**, this blade drips decative acid and has etched along its length occult markings containing **Schlecter Stein**'s spellbook. The Blade knows all his spells, but does not work for him out of choice. It works for the Witch who was imprisoned in Heinburg whose Familiar **Schlecter Stein** has stolen and bound. The Blade Cannot willingly betray **Schlecter Stein**, but it will be free if he is slain and will try to coerce it's new bearer into bringing them to Skelgrav & returning it to **The Cordyceps Mound**. 
+- Schlecter Stein's **Black Blade**: Created by Schelcter binding the soul of a Familiar in service to **Rot**, this blade drips decative acid and has etched along its length occult markings containing **Schlecter Stein**'s spellbook. The Blade knows all his spells, but does not work for him out of choice. It works for the Witch who was imprisoned in Heinburg whose Familiar **Schlecter Stein** has stolen and bound. The Blade Cannot willingly betray **Schlecter Stein**, but it will be free if he is slain and will try to coerce it's new bearer into bringing them to Skelgrav & returning it to **The Cordyceps Mound**. 
 
 - **Rod of Noxa**: This magic rod of Divine Power is imbued with the Darkness of Noxa and acts like a re-usable Rod of Cancellation but for spells and effects with the [Light] descriptor. It is a rare item, crafted by the Church of Noxa in the early eras of **The Founding** - but it is not *quite* an artifact. Purchase Price: 35,000gp
 

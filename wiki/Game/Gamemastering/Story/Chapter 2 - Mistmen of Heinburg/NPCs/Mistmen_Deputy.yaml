@@ -20,7 +20,7 @@ Defenses:
     Reflex: +7
     Will:   +11
 Combat:
-  - Initiative: +99
+  - Initiative: +0
   - BAB: 7
   - Combat Maneuver: 
     CMB: +11
@@ -37,7 +37,7 @@ Special Abilities:
   - Cruelty: 
       Sickened 
       Diseased
-  - Channel Negative Energy: 
+  - Channel Negative Energy: 3d6
   - Spellcasting: see below
   - Fiendish Boon: 
       flaming, keen or vicious
