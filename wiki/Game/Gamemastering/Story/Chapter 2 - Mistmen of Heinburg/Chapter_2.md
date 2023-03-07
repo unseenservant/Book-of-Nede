@@ -31,26 +31,11 @@ When **Schlecter Stein** made contact with the monster, both wicked creatures sa
 
 For **Xardox** knew of and aided in the retrieval of, **The Book of Nede** from a catacomb deep in the sweltering underdark. For **Schlecter Stein**, this was proof that **Zh'Ash** was approving of him - and for **Xardox** this was proof that the Underdark could be raided successfully by surface dwellers. 
 
-With **The Book of Nede**, **Schlecter Stein** set into motion the events of Chapter 1, the ritual that impregnated Lysanne Montagu; and embodied **Zh'Ash** himself into flesh. 
+With **The Book of Nede**, **Schlecter Stein** set into motion the events of Chapter 1, the ritual that impregnated Lysanne Montagu; and embodied **Zh'Ash** himself into flesh. In the months leading up to Lysanne's birth, **Schlecter Stein** had been forging ahead on his plans to unleash **Zh'Ash** himself into the world. His cult -- his society -- would lead a revolution in the name of **Zh'Ash**; bringing the Elder God in his true form to the world. Such a thing would only be accepted if the people of the world had something *greater* to fear that **Zh'Ash** could save them from. So, he conjured forth a Leukodaemon; and entered into an arrangement with it. It would be given nearly free reign to spread death and pestilence throughout the land and claim all the souls that perished from its virulence. In exchange, it would teach **Schlecter Stein** to understand Disease and this most terrible plague that it brought -- a Shang illness called by some "The Black Death". Then by the time this plague had spread far and wide, the baby would come to term & they would venture forth using another ancient tome **The Tablet of Asthenia** to penetrate into the depths of Skelgrav and release their lord into the world. **Schlecter Stein** would be a hero to both his god & to the world for bringing about an end to the plague. 
 
-... Now Lysanne is dead, the babe Elder God missing, and **Schlecter Stein**'s most devout servants perished in the north. So what's a devoted cultist of the Lord of Rot to do - but engineer the sacrifice of an entire Country to force **Zh'Ash** himself to manifest. Using his knowledge of the Occult, he has reverse engineered the Skelgrav unravelling ritual, that will unbind **Zh'Ash** from his mortal flesh, enabling the Lord of Rot to walk the earth in his true form. What's even more terrifying, **Schlecter Stein** has improved upon the ritual - no longer requiring **Zh'Ash** to be present - simply enough dead by Plague will work. 
+However, Lysanne is now dead, the babe Elder God missing, and **Schlecter Stein**'s most devout servants perished in the north. So what's a devoted cultist of the Lord of Rot to do - he must retrieve the baby and **The Book of Nede** or else all shall be lost and his plans will crumble.  
 
-So to facilitate this exercise in death, he has called up from the depths a Leukodaemon **Tabes, Power of Decay**. Through his alliance with **Tabes**, they have been calling other Leukodaemons up, and infecting Fjenst with the Black Plague of **Shang**. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+To that end he has been tracking the **The Key** and scrying on the Party. He has learned they are ignorant of the child's heritage & not prone to heroics. Without the **The Babe** there will be no one who can control the Leukodaemons pestilence. But **Zh'Ash** it seems, has brought them to him -- for they have come to the city without prodding or provocation to aid one of their own and are poking around searching for his cult. He will lure them, the baby and the **Book of Nede** right to him, kill them and set himself back on track. 
 
 
 ## Story
@@ -91,3 +76,16 @@ Part 4:
 - into the Sewers
 - LL HQ
 - Mistmen HQ & BBEG 
+
+
+### (New) Key Items 
+
+- **The Tablet of Asthenia**: This ancient black tablet is written in coded Elven, using the Aklo script - and is a translation of an even older Phaerimm manuscript. It was created by the Elves of Skelgrav long ago, and details their understanding of the Phaerimm Temple beneath their feet. As it is contained on the Tablet, it details the prophecy of **Zh'Ash** coming into the world hypostatically; one day meeting with and destroying his Errant herald **The Cordyceps Mound**. The Tablet also illustrates the Phaerimm Temple's operation and contains the instructions needed to bypass it's formidable security. 
+
+- **Grimoire of Tasha the Black**: This book of spells contains many dark magicks (some 3.5 spells), and crosses many Witch and Wizard spells bridging the gap between the Arcane and Occult worlds of magic. **Tasha the Black** lived during **The Founding** and was a powerful Witch of **The Shadow**, in the form of **Yormungandr**. While she perished in the Wars that followed **The Founding**; her booked survived. 
+
+- **Schlecter Stein**'s Black Blade: Created by Schelcter binding the soul of a Familiar in service to **Rot**, this blade drips decative acid and has etched along its length occult markings containing **Schlecter Stein**'s spellbook. The Blade knows all his spells, but does not work for him out of choice. It works for the Witch who was imprisoned in Heinburg whose Familiar **Schlecter Stein** has stolen and bound. The Blade Cannot willingly betray **Schlecter Stein**, but it will be free if he is slain and will try to coerce it's new bearer into bringing them to Skelgrav & returning it to **The Cordyceps Mound**. 
+
+- **Rod of Noxa**: This magic rod of Divine Power is imbued with the Darkness of Noxa and acts like a re-usable Rod of Cancellation but for spells and effects with the [Light] descriptor. It is a rare item, crafted by the Church of Noxa in the early eras of **The Founding** - but it is not *quite* an artifact. Purchase Price: 35,000gp
+
+- **Map & "Key" to the Vault of Panoptus**: The Beholder and patron of the Last Laugh Thieves' guild brought with him when he escape his home of **Panoptus** a map on how to return, as well as the **Key** to the Vault owned by their Spawnmother. The Journey will require traveling across some of the abandoned **Deep Roads** and the PCs should be encouraged to only undertake this side-quest after at least beginning their main-quest in Silverroot. 

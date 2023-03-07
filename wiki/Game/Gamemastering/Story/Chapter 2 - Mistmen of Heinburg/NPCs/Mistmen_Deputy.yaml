@@ -1,0 +1,64 @@
+--- 
+Name: "Rog'Mar"
+Race: "Half-Orc"
+Abilities: 
+  - str: 19 (bull's strength)
+  - dex: 10
+  - con: 18 (bear's endurance)
+  - int: 8
+  - wis: 12
+  - cha: 18 (eagle's splendor)
+Class: 
+  - Name: "Antipaladin"
+  - Level: 7
+Defenses: 
+  - HP: 71
+  - AC: 19
+    Formula: (10 + 9 (+1 Full-Plate) + 0 Dex + )
+  - Saves:
+    Fort:   +14
+    Reflex: +7
+    Will:   +11
+Combat:
+  - Initiative: +99
+  - BAB: 7
+  - Combat Maneuver: 
+    CMB: +11
+    CMD: 21
+  - Attacks: 
+Special Abilities:
+  - Aura of Evil: null
+  - Detect Good: ∞/day
+  - Smite Good: 3/day
+  - Unholy Resilience: const
+  - Touch of Corruption: 10/day
+  - Aura of Cowardice: const
+  - Plague Bringer: const
+  - Cruelty: 
+      Sickened 
+      Diseased
+  - Channel Negative Energy: 
+  - Spellcasting: see below
+  - Fiendish Boon: 
+      flaming, keen or vicious
+  - Feats: 
+    1st: Power Attack
+    3rd: Endurance
+    5th: Diehard
+    7th: Deathless Initiate
+Spells: 
+  - DC: 14
+  - 1st: 2/day
+      protection from good
+      blood blaze
+  - 2nd: 1/day
+      blindness/deafness
+
+
+
+
+
+
+
+
+
