@@ -1,6 +1,6 @@
 # Luxi, the Goddess of Light
 
-| Species, Mythic Divine Source Tier X | Luxi |
+| Species, Mythic Divine Source Tier 10 | Luxi |
 | --- | --- |
 | Symbol                | The Rainbow in a Square
 | Abode                 | Leonicia

@@ -1,0 +1,50 @@
+--- 
+Name: "Wolfram One-Eye"
+Race: "Human"
+Abilities: 
+  - str: 10
+  - dex: 16
+  - con: 12
+  - int: 13
+  - wis: 8
+  - cha: 14
+Class: 
+  - Name: "Antipaladin"
+  - Level: 7
+Defenses: 
+  - HP:  49
+  - AC: 
+    Formula: 
+  - Fast Healing: 
+  - Saves:
+    Fort:     7
+    Reflex:   4
+    Will:     7   
+Combat:
+  - Initiative: 
+  - BAB: 7
+  - Combat Maneuver: 
+    CMB: 
+    CMD: 
+  - Attacks: 
+    Attack 1:
+Special Abilities:
+  Ability 1:
+  - Feats: 
+    - Human: Weapon Finesse
+    - 1st: Combat Expertise
+    - 3rd: Improved Dirty Trick
+    - 5th: Pirhana Strike
+    - 7th: Quick Dirty Trick
+Spells: 
+  - DC: 16
+  - 0th: ∞/day of 8 prepared of ∞ known
+
+
+
+
+
+
+
+
+
