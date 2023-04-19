@@ -1,13 +1,13 @@
 
 | LeShay | Adana |
 | --- | --- |
-| Symbol | The Lovers Card
+| Symbol | The Highpriestess Card
 | Abode |
-| Alignment | LE | 
+| Alignment | NG | 
 | Attributed Portfolio |
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Law[Slavery], Evil[Cannabalism], Charm[Lust], Magic[Rites] 
+| Domains | Good, Protection[Purity], Magic[Divine], Luck[Imagination] |  
 | Favored Weapon | Kukri | 
 
 Description: 

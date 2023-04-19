@@ -1,12 +1,12 @@
-| LeShay | Ternlan |
+| Species, Mythic Divine Source Tier X | Name |
 | --- | --- |
-| Symbol | The High Priestess card | 
+| Symbol |
 | Abode |
-| Alignment | NG | 
+| Alignment |
 | Attributed Portfolio |
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Good, Protection[Purity], Magic[Divine], Luck[Imagination] |
+| Domains | Align1, Align2, AltDomain1, AltDomain2 
 | Favored Weapon |
 
 Description: 
