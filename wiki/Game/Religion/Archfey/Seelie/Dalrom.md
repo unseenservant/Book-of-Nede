@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Swarm-that-walks | Dalrom |
 | --- | --- |
 | Symbol |
 | Abode |
-| Alignment |
-| Attributed Portfolio |
+| Alignment | CE
+| Attributed Portfolio | Insects, Swarms, reuse/recycling | 
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Chaos, Evil, Vermin, Animal[insect] 
 | Favored Weapon |
 
 Description: 

@@ -4,7 +4,7 @@
 | Symbol | The Highpriestess Card
 | Abode |
 | Alignment | NG | 
-| Attributed Portfolio |
+| Attributed Portfolio | Wisdom, Power, Faith 
 | Worshippers | 
 | Cleric Alignments |
 | Domains | Good, Protection[Purity], Magic[Divine], Luck[Imagination] |  

@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Mer-LeShay | Nethreme |
 | --- | --- |
 | Symbol |
 | Abode |
-| Alignment |
-| Attributed Portfolio |
+| Alignment | CN 
+| Attributed Portfolio | Fish, aquatic creatures, aquatic elves
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Chaos, Water[Oceans], Community[Cooperation], Animal 
 | Favored Weapon |
 
 Description: 

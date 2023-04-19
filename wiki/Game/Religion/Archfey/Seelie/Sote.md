@@ -3,7 +3,7 @@
 | Symbol |
 | Abode |
 | Alignment | CG | 
-| Attributed Portfolio | |  
+| Attributed Portfolio | Fauns, small life, transformation after death |  
 | Worshippers |  
 | Cleric Alignments |
 | Domains | Chaos, Good, Magic[Arcane], Repose[Ancestors] 

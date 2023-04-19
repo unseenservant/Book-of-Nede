@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Dryad | Mylith |
 | --- | --- |
 | Symbol |
 | Abode |
-| Alignment |
-| Attributed Portfolio |
+| Alignment | N
+| Attributed Portfolio | Trees, things that live in trees
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Plant, Protection[Fortification], Vermin, AltDomain2 
 | Favored Weapon |
 
 Description: 

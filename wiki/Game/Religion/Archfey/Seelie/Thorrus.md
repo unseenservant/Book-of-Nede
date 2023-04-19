@@ -1,12 +1,12 @@
-|  | Thorrus |
+| Fey Legendary Owl | Thorrus |
 | --- | --- |
 | Symbol |
 | Abode |
-| Alignment |
-| Attributed Portfolio |
+| Alignment | N | 
+| Attributed Portfolio | Birds |
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Animal[feather], Air, Darkness[night], Protection[Solitude]  
 | Favored Weapon |
 
 Description: 

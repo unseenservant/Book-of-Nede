@@ -3,7 +3,7 @@
 | Symbol |
 | Abode |
 | Alignment | NG | 
-| Attributed Portfolio |
+| Attributed Portfolio | Beauty, Song, Subtle power
 | Worshippers | 
 | Cleric Alignments |
 | Domains | Good, Charm, Community, Glory

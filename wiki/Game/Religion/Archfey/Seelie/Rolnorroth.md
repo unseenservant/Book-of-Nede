@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Fey Legendary Wolf | Rolnorroth |
 | --- | --- |
 | Symbol |
 | Abode |
-| Alignment |
-| Attributed Portfolio |
+| Alignment | N |
+| Attributed Portfolio | Predators
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Animal[fur], strength[ferocity], community[family], earth[caves] 
 | Favored Weapon |
 
 Description: 

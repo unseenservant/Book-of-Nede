@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Fey Gnome | Hiarti |
 | --- | --- |
 | Symbol |
 | Abode |
-| Alignment |
-| Attributed Portfolio |
+| Alignment | CG | 
+| Attributed Portfolio | Invention, Creation, Discovery, Inspiration | 
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Chaos, Good, Artifice, Luck[Imagination]
 | Favored Weapon |
 
 Description: 

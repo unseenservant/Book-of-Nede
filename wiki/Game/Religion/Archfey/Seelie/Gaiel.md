@@ -3,7 +3,7 @@
 | Symbol | Old Tree like a man's face | 
 | Abode | 
 | Alignment | NG | 
-| Attributed Portfolio | Growth, Life | 
+| Attributed Portfolio | Growth, The concept of Life | 
 | Worshippers | 
 | Cleric Alignments | LG, NG, CG, N | 
 | Domains | Good, Plant, Water, Sun 

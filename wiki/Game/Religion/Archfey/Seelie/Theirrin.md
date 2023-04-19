@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Saurian LeShay/Deer | Theirrin |
 | --- | --- |
 | Symbol |
 | Abode |
-| Alignment |
-| Attributed Portfolio |
+| Alignment | NG
+| Attributed Portfolio | Prey, migration
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Animal[Fur], Community[Family], Nobility, Travel
 | Favored Weapon |
 
 Description: 

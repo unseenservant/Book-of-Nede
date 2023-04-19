@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Norn | Wyrd | 
 | --- | --- |
 | Symbol |
 | Abode |
-| Alignment |
-| Attributed Portfolio |
+| Alignment | LN | 
+| Attributed Portfolio | Fate, Prophecy
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Law, Luck[Fate], Knowledge, Magic[Ritual]
 | Favored Weapon |
 
 Description: 
