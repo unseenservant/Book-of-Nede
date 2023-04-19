@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Unique Fey (Dryad Themed) | Hurim |
 | --- | --- |
 | Symbol |
 | Abode |
-| Alignment |
+| Alignment | LG | 
 | Attributed Portfolio |
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Law, Good, Plant, Earth |  
 | Favored Weapon |
 
 Description: 

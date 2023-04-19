@@ -6,7 +6,7 @@
 | Attributed Portfolio | Growth, Life | 
 | Worshippers | 
 | Cleric Alignments | LG, NG, CG, N | 
-| Domains | Good, Plant, Repose, Community 
+| Domains | Good, Plant, Water, Sun 
 | Favored Weapon | Quarterstaff | 
 
 Description: 

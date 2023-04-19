@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Unique Fey (Satyr themed) | Sote |
 | --- | --- |
 | Symbol |
 | Abode |
-| Alignment |
-| Attributed Portfolio |
-| Worshippers | 
+| Alignment | CG | 
+| Attributed Portfolio | |  
+| Worshippers |  
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Chaos, Good, Magic[Arcane], Repose[Ancestors] 
 | Favored Weapon |
 
 Description: 

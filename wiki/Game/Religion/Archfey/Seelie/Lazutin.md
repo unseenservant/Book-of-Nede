@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Winged Satyr | Lazutin |
 | --- | --- |
 | Symbol |
 | Abode |
-| Alignment |
-| Attributed Portfolio |
+| Alignment | LG | 
+| Attributed Portfolio | Music | 
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Law, Good, Artifice, Charm 
 | Favored Weapon |
 
 Description: 

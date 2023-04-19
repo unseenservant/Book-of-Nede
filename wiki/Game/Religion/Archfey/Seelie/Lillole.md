@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Fey Couatl Lord Sun-Warrior | Lillole |
 | --- | --- |
-| Symbol |
+| Symbol | Ouroboros in a Sun | 
 | Abode |
-| Alignment |
-| Attributed Portfolio |
+| Alignment | LG | 
+| Attributed Portfolio | Summer, Sun | 
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Law, Good, Sun[Day], Weather[Seasons{summer}] 
 | Favored Weapon |
 
 Description: 

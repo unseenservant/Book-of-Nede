@@ -1,13 +1,13 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Pixie | Tulre |
 | --- | --- |
-| Symbol |
+| Symbol | Butterfly | 
 | Abode |
-| Alignment |
-| Attributed Portfolio |
+| Alignment | CG | 
+| Attributed Portfolio | Fun, Play, Games, Tricks | 
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
-| Favored Weapon |
+| Domains | Chaos[Whimsy], Trickery, Protection[Defense], Luck
+| Favored Weapon | Shortbow | 
 
 Description: 
     []

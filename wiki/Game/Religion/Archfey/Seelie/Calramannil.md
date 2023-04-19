@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Leshay(Alfar) | Calramannil |
 | --- | --- |
-| Symbol |
+| Symbol | An Elven Ear | 
 | Abode |
-| Alignment |
-| Attributed Portfolio |
+| Alignment | N
+| Attributed Portfolio | Elves, Elven Druids | 
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Magic[Arcane], Knowledge, War, Nobility |  
 | Favored Weapon |
 
 Description: 

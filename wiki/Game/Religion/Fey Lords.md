@@ -37,6 +37,6 @@ For the First World, in all it's elemental wild glory, was unmaintable without t
 | --- | --- | --- | --- | 
 Oberon + Morgana | Uffama, Kelnilim, Laufi, Hersis, Iove, Nonnicin | Vamnan, Vilrin, Mifom, Nynnim, Dyrsatith, Thevath, Vemeleth, Cefoth, Hales, Lylicen, Lurten, Vunte | House of the Tarot |
 (Ternlan) + Ephonee | Vennona, Vunnathi, Otha, Ranas, Tuvrolesti, Afel | Tentroh, Nilli, Thilro, Saentethastri, Rirrannon, Vella, Tattithele, Nules, Enia, Luteh, Ranalc, Calaran, Laurtel | Unseelie |
-Gaiel + (Adana) | Hefem, Vaanam, Hurim, Feffemel, Sote, Lillole | Nethreme, Mylith, Hiarti, Lazutin, Calramannil, Tulre, Mavon, Thorrus, Theirrin, Dalrom, Valas, Rolnorroth | Seelie | 
+Gaiel + (Adana) | Hefem, Vaanam, Hurim, Feffeme, Sote, Lillole | Nethreme, Mylith, Hiarti, Lazutin, Calramannil, Tulre, Mavon, Thorrus, Theirrin, Dalrom, Valas, Rolnorroth | Seelie | 
 
 ## Seelie & Unseelie Courts 

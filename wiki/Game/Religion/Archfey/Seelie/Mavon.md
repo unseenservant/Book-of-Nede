@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Nymph | Mavon |
 | --- | --- |
 | Symbol |
 | Abode |
-| Alignment |
+| Alignment | NG | 
 | Attributed Portfolio |
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Good, Charm, Community, Glory
 | Favored Weapon |
 
 Description: 

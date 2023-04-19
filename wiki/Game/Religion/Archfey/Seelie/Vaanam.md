@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Unique Fey (pixie themed) | Vaanam |
 | --- | --- |
 | Symbol |
 | Abode |
-| Alignment |
-| Attributed Portfolio |
+| Alignment | CG | 
+| Attributed Portfolio | Smallfolk, Pixies, Grigs, Leprechaun | 
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Good, Chaos, Community[Cooperation], Rune[Legislation] 
 | Favored Weapon |
 
 Description: 

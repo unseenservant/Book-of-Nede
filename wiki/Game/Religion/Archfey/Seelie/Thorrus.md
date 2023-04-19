@@ -1,4 +1,4 @@
-| Species, Mythic Divine Source Tier X | Name |
+|  | Thorrus |
 | --- | --- |
 | Symbol |
 | Abode |
