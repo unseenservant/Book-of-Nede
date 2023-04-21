@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Fey Gloom | Afel |
 | --- | --- |
 | Symbol |
 | Abode |
-| Alignment |
-| Attributed Portfolio |
+| Alignment | LE | 
+| Attributed Portfolio | Phobia, Murder, Assassins, Svartalfar | 
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Law, Evil[Devil], Death[Murder], Void[Dark Tapestry]
 | Favored Weapon |
 
 Description: 

@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Paragon Revenant Svartalfar | Tattithele |
 | --- | --- |
 | Symbol |
 | Abode |
-| Alignment |
-| Attributed Portfolio |
+| Alignment | N | 
+| Attributed Portfolio | Grief, Loathing, Sadness, Anguish | 
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Madness[Truth], Destruction[Hatred], War, Darkness[Loss]
 | Favored Weapon |
 
 Description: 

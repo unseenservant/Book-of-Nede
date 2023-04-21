@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Paragon Fey Shinigami | Saentethastri |
 | --- | --- |
 | Symbol |
 | Abode |
-| Alignment |
-| Attributed Portfolio |
+| Alignment | CE | 
+| Attributed Portfolio | Madness, Suicide | 
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Chaos[Entropy], Evil[Demon], Death[Psychpomp], Madness[Truth]
 | Favored Weapon |
 
 Description: 

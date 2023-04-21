@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Fey Kaiju Legendary Snake | Tuvrolesti |
 | --- | --- |
 | Symbol |
 | Abode |
-| Alignment |
-| Attributed Portfolio |
+| Alignment | CN | 
+| Attributed Portfolio | Serpents, Yormungandr, Hunger | 
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Chaos[Protean], Scalykind[Venom], Animal, Water[River]
 | Favored Weapon |
 
 Description: 

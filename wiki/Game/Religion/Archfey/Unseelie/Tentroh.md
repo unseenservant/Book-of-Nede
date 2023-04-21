@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Paragon Svartalfar -> Ooze | Tentroh |
 | --- | --- |
 | Symbol |
 | Abode |
-| Alignment |
-| Attributed Portfolio |
+| Alignment | NE | 
+| Attributed Portfolio | Not Breathing | 
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Evil[Fear], Destruction[Torture], Death[Plague], Air
 | Favored Weapon |
 
 Description: 

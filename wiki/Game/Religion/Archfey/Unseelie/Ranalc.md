@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Pargon Leprechaun | Ranalc |
 | --- | --- |
 | Symbol |
 | Abode |
-| Alignment |
-| Attributed Portfolio |
+| Alignment | CN | 
+| Attributed Portfolio | Accidents, bad luck, bad deals | 
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Chaos[Whimsy], Travel[Trade], Charm[Captivate], Luck[Curse] 
 | Favored Weapon |
 
 Description: 

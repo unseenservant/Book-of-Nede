@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Paragon Fey Shinigami | Ephonee |
 | --- | --- |
 | Symbol |
 | Abode |
-| Alignment |
-| Attributed Portfolio |
+| Alignment | LE | 
+| Attributed Portfolio | The concept of Death | 
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Evil, Death[Psychopomp], Law[Judgment], Void 
 | Favored Weapon |
 
 Description: 

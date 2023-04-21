@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Paragon Svartalfar | Nules |
 | --- | --- |
 | Symbol |
 | Abode |
-| Alignment |
-| Attributed Portfolio |
+| Alignment | CE |
+| Attributed Portfolio | Dementia, Loss, Diseases of the mind | 
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Evil, Chaos, Madness[Insanity], Darkness[Loss]
 | Favored Weapon |
 
 Description: 

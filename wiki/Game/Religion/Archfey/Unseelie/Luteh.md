@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Paragon Pixie -> Animated Object(pinnochio) | Luteh |
 | --- | --- |
 | Symbol |
 | Abode |
-| Alignment |
-| Attributed Portfolio |
+| Alignment | CN | 
+| Attributed Portfolio | Annoying, Inconvenience, Bad Luck, Defeat | 
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Chaos[Entropy], Trickery, Luck[Imagination], Nobility[Hubris]
 | Favored Weapon |
 
 Description: 

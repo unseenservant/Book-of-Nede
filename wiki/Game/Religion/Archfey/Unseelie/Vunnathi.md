@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Paragon Banshee | Vunnathi |
 | --- | --- |
 | Symbol |
 | Abode |
-| Alignment |
-| Attributed Portfolio |
+| Alignment | CE | 
+| Attributed Portfolio | Despair | 
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Evil, Darkness[Loss], Void[Isolation], Destruction[Catastrophe] 
 | Favored Weapon |
 
 Description: 

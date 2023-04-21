@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Paragon Svartalfar | Calaran |
 | --- | --- |
-| Symbol |
+| Symbol | Purple Crescent Moon | 
 | Abode |
-| Alignment |
-| Attributed Portfolio |
+| Alignment | CE | 
+| Attributed Portfolio | Gloom, paranoia, tricks, illusions | 
 | Worshippers | 
-| Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Cleric Alignments | CN, NE, CE
+| Domains | Chaos[Riot], Evil, Darkness, Trickery[Deception] 
 | Favored Weapon |
 
 Description: 

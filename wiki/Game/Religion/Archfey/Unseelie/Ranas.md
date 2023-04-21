@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Paragon Svartalfar | Ranas |
 | --- | --- |
 | Symbol |
 | Abode |
-| Alignment |
-| Attributed Portfolio |
+| Alignment | N | 
+| Attributed Portfolio | Autumn | 
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Weather[Seasons{autumn}], Ruin, Death, Plant[Decay] 
 | Favored Weapon |
 
 Description: 

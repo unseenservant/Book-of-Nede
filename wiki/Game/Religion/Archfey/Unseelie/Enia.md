@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Atropal | Enia |
 | --- | --- |
 | Symbol |
 | Abode |
-| Alignment |
-| Attributed Portfolio |
+| Alignment | NE | 
+| Attributed Portfolio | Boredom | 
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Evil, Death[Undead], Knowledge[Memory], Void
 | Favored Weapon |
 
 Description: 

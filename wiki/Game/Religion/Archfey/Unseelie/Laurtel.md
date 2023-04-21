@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Paragon Fey Void Yai | Laurtel |
 | --- | --- |
 | Symbol |
 | Abode |
-| Alignment |
-| Attributed Portfolio |
+| Alignment | CE | 
+| Attributed Portfolio | Envy, Rape, Lust | 
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Chaos[Riot], Evil[Kyton], Strength, Charm[Lust]
 | Favored Weapon |
 
 Description: 

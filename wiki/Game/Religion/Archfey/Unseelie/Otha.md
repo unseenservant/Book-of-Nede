@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Paragon Hoary Hunter | Otha |
 | --- | --- |
 | Symbol |
 | Abode |
-| Alignment |
-| Attributed Portfolio |
+| Alignment | NE | 
+| Attributed Portfolio | Winter | 
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Weather[Seasons{autumn}], Evil, Death, Water[Ice]
 | Favored Weapon |
 
 Description: 

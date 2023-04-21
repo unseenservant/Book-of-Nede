@@ -1,4 +1,4 @@
-| Fungal LeShay, Mythic Divine Source Tier 10 | Vennona |
+| Fungal LeShay | Vennona |
 | --- | --- |
 | Symbol | Intertwined Mushrooms | 
 | Abode |

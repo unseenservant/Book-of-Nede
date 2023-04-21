@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Paragon Svartalfar | Rirrannon |
 | --- | --- |
-| Symbol |
+| Symbol | a Black Elf's ear | 
 | Abode |
-| Alignment |
+| Alignment | LE | 
 | Attributed Portfolio |
-| Worshippers | 
+| Worshippers | Svartalfar, most evil lesser fey | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Law, Evil, Nobility, Magic[Arcane]
 | Favored Weapon |
 
 Description: 

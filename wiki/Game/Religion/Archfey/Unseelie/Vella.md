@@ -1,12 +1,12 @@
-| Species, Mythic Divine Source Tier X | Name |
+| Paragon Witchfire Svartalfar | Vella |
 | --- | --- |
 | Symbol |
 | Abode |
-| Alignment |
-| Attributed Portfolio |
+| Alignment | LE | 
+| Attributed Portfolio | Arson | 
 | Worshippers | 
 | Cleric Alignments |
-| Domains | Align1, Align2, AltDomain1, AltDomain2 
+| Domains | Law, Evil, Strength[Resolve], Fire[Smoke]
 | Favored Weapon |
 
 Description: 
