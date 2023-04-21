@@ -116,27 +116,53 @@ The Unseelie Court is a union of Archfey, Oni, their servants and cohorts and ot
 #### Unseelie Fey Lineage 
 
 Ephonee + Ternlan
-Converted In: 
-    Vennona
-        Thilro
-        Tentroh
-        Nules
-    Tuvrolesti
-        Laurtel
-    Vunnathi
-        Saentethastri
-        Nilli
-        Enia
-        Luteh
-        Tattithele
-        Vella
-        Ranalc
     Afel
-        Rirrannon
-        Calaran
+    Tuvrolesti
     Otha
     Ranas
+    Vunnathi
+    
+Hefem + Thilro
+    Converted Out: Dalrom
+
+Hefem + Feffeme
+    Converted In: Vennona
+            Thilro
+            Tentroh
+            Nules
+
+    Converted In: Tuvrolesti
+        Laurtel
+
+
+Vunnathi + Iove
+    Nilli
+
+Vunnathi + Lylicen
+    Saentethastri
+    Enia
+    Tattithele
+
+Vunnathi + Hersis
+    Luteh
+    Vella
+    Ranalc
+    
+Afel + Vilrin
+    Calaran
+Afel + Calramannil
+    Rirrannon
+
 Converted Out:
     Dalrom
 
 
+## The House of the Tarot
+
+While many Fey have a parentage that originates with one of the Archfey. The Archfey themselves do not always have a direct lineage. The First were created by the Gods who formed the cosmos. The members of the **House of the Tarot** are unique in that they are each direct creations by one or more Deities during the great beginnings of the First World. Oberon, Morgana, Ephonee & Gaiel were the First among Firsts; but the Begotten and Sired among the Tarot are also each without direct parentage. 
+
+This makes understanding their power and **Spheres** difficult as each is more of a sibling, by mortal reckoning, to each other than parents or children. However, the whole House of the Tarot and all their descendants pay homage to Oberon and Morgana, who truly are the eminate rulers of all Fey. 
+
+This House is concerned with the arrangement of Fate, or the *Telos* - in Sylvan *Taros* - of all things. They are the ordered chaos of the cosmos personified; the enslaved masters to the melody of the Gods' great orchestra. 
+
+The House of the Tarot has no single abode or meeting place - but each member is of great enough power and will to have preserved their own Realms in the dying First World. 
