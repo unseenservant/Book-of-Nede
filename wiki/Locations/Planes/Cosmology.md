@@ -45,6 +45,12 @@ Mirror Dimension
     The Endless Desolation, Abaddon (Evil)
     Halls of the Dead
     Negative Energy Plane  
+
+    # Legend: 
+    < >, wraps around 
+    *, intimately connected 
+    &, transitive with each other
+    $, leads into; one becomes another
 ```
 ## Descriptions
 
