@@ -152,6 +152,7 @@ No one has plumbed the unceasing ever twisting depths of Apollyon, but we know e
 
 The Demons and their kin are eternally caught in a two-front war. Above them, blocking the way into the higher planes are the Devils - while below them are the soul devourers, the Daemons.
 ### The Primordial Chaos, Pandemonium (Chaos)
+Once, long before time, this was a relatively serene plane of swirling roiling clouds called Limbo. It was a timeless place where any concept or Spirit would break down dissolved into the calm churn of *primoridal chaos*. When **Az'Arot, the Great Dreamer** touched the cosmos the epicenter of the upheaval was truly felt the worst here. 
 
 ### <u>The Endless Desolation, Abaddon (Neutral Evil)</u>
 Far beneath **Gehenna**, well beyond the **Light of Life** lies the darkest desmense. A realm of desolation unending, lifeless craggy peaks exaggerate the landscapes here - if one could even see them. For Abbadon is beyond all *light*, and there is only darkness eternal. This is the realm of the Daemons - these are the soul devourers, the unliving spirits of oblivion. They are the heralds of the **End of All Things**, *The First Form of Death* and are lead by the **Four Horsemen** greatest of all Death spirits.  
