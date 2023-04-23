@@ -77,14 +77,12 @@ Now the First World is a primeval and emotional realm of nature spirits left ove
 ### Shadow Plane
 ### Negative Energy Plane
 ### Astral Plane
-### Halls of the Dead
 ### The Eternal Seal,  Ordo (Law)
-### The Primordial Chaos, Pandemonium (Chaos)
 ### The Seven Heavens, Solymn (Good)
 
 Situated at the cosmological apex and nearest the Positive Energy Plane, Solymn is bathed in the sonorous glory of life. Divided by congress into seven realms (called heavens) by the Celestial Spirits each is a nearly complete fractal of **Perfection** honed to a singular point. Harmony is the order of the day, and the Spirits who dwell here hail from cooperative **Tribes** each ruled diversely yet in community with each other. 
 
-Angels, Azatas, Agathions, Archons but not the exiled *Fifth Tribe*; have dominion over the Seven Heavens. With the notable exception being **Athonrous**, which is the great occulant arch from which Positive Energy flows into the cosmos. 
+**Angels**, **Azatas**, **Agathions**, **Archons** but not the exiled *Fifth Tribe*; have dominion over the Seven Heavens. With the notable exception being **Athonrous**, which is the great occulant arch from which Positive Energy flows into the cosmos. 
 
 - **Elys**(like Elysium) analog of Ylon
 - **Zion**(Like Heaven) analog of Hygiea
@@ -110,13 +108,26 @@ The chief warlords of Gehenna are the Infernal Archduke's (see below), who worsh
 - **Tartarus**:     analog of **Sorae**, ruled by **Glasya**
 - **Maladomini**:   analog of **Pallas**, ruled by **Baalsebul**
 - **Cania**:        analog of **Serec**, ruled by **Mephistopheles**
-### <u>The Endless Desolation, Abaddon (Neutral Evil)</u>
-Beneath **Gehenna**, passing beyond the dying influence of the **Eternal Seal** you reach the last place of Light from the Positive Energy Plane. A realm of desolation unending, lifeless craggy peaks exaggerate every landscape and within those enshadowed vales dwell the Daemons. The *First Form of The End*, and the first spirits not born of Positive Energy. These are the soul devourers, the unliving spirits of ravening. They are the heralds of the **End of All Things** and are lead by the **Four Horsemen**. Great spirits of Death, they and their kin are eternally caught in a two-front war. Above them, blocking the way into the higher planes are the Devils - while below them are the utter destroyers, the Demons. 
 
-The Daemons, knowing the faintest taste of the **Light of Life** hunger for souls, unlike the Demons lurking beneath them - and so while the **Horsemen** plot their great revelation, the lesser Daemons flit like shadows into Gehenna or delve through secret paths that lead past the **Eternal Seal** into the **Halls of the Dead** where they may feast unchecked. 
+### The Ravenous Dark, Apollyon (Chaos Evil)
+Beneath **Gehenna**, passing beyond the waning influence of the **Eternal Seal** you reach the last place of Light from the Positive Energy Plane. A immense chasm yawning open to the depths that seems heave like the diaphragm of the cosmos itself! The Abyss, the Great Maw, or **Apollyon** the Destroyer is a realm home to the *Second Form of The End*; Demons - spirits not born of Positive Energy. 
+
+Apollyon has a dank dampness to it, *abyssal moss* and vile fungi cloy to most surfaces across this plane of evil drinking up the last light of the Positive Energy Plane. No one knows how deep Apollyon goes, or from whence the Demons come - but they are endless. Eternal effulent of the **Primordial Chaos** beneath them, they are the Spirits of material Destruction - bent on the annihilation of all order and matter. Only the strongest spirits survive here, and for the Demons that means Demonic Lords have risen as warlords; only their power preserves their station - and a single mistake will send the Lord's rulings into a power vaccuum. 
+
+Their realm lies in shadows, cast by the *last light* mixing with the *Great Fangs of the Maw*, giving the Demons only a taste of *true life* - just enough to whet their appetites. 
+
+No one has plumbed the unceasing ever twisting depths of Apollyon, but we know eventually it births out into **Pandemonium** 
+
+The Demons and their kin are eternally caught in a two-front war. Above them, blocking the way into the higher planes are the Devils - while below them are the soul devourers, the Daemons.
+### The Primordial Chaos, Pandemonium (Chaos)
+
+### <u>The Endless Desolation, Abaddon (Neutral Evil)</u>
+Far beneath **Gehenna**, well beyond the **Light of Life** you come to the darkest desmense. A realm of desolation unending, lifeless craggy peaks exaggerate the landscape - if one could see them. For Abbadon is beyond all *light*, and there is only darkness eternal. This is the realm of the Daemon - these are the soul devourers, the unliving spirits of ravening. They are the heralds of the **End of All Things**, they are *The First Form of Death*. Lead by the **Four Horsemen** greatest spirits of Death.  
+
+The Daemons, know not the faintest taste of the **Light of Life** and so hunger for souls above all other desires, the cessation of a living soul is the sweetest sensation for a Daemon. And so while the **Horsemen** plot their great revelation, the lesser Daemons flit like shadows into Gehenna or delve through secret paths that lead past the **Eternal Seal** into the **Halls of the Dead** where they may feast unchecked. 
 
 None from the living world have charted the full breadth of **Abaddon**, but it is known the **Horsemen** dwell within mighty fortresses called *Chariots*, rumored to be hewn of *unliving stone*. 
 
-### The Ravenous Dark, Apollyon (Chaos Evil)
+### Halls of the Dead
 ### Infinite Tower of Babel
 ### Mirror Dimension
