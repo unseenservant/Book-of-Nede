@@ -84,7 +84,7 @@ Now the First World is a primeval and emotional realm of nature spirits left ove
 
 Situated at the cosmological apex and nearest the Positive Energy Plane, Solymn is bathed in the sonorous glory of life. Divided by congress into seven realms (called heavens) by the Celestial Spirits each is a nearly complete fractal of **Perfection** honed to a singular point. Harmony is the order of the day, and the Spirits who dwell here hail from cooperative **Tribes** each ruled diversely yet in community with each other. 
 
-Angels, Azatas, Ghaeles, 
+Angels, Azatas, Agathions, Archons but not the exiled *Fifth Tribe*; have dominion over the Seven Heavens. With the notable exception being **Athonrous**, which is the great occulant arch from which Positive Energy flows into the cosmos. 
 
 - **Elys**(like Elysium) analog of Ylon
 - **Zion**(Like Heaven) analog of Hygiea
