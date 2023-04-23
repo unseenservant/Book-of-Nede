@@ -148,7 +148,7 @@ Apollyon has a dank dampness to it, *abyssal moss* and vile fungi cloy to most s
 
 Their realm lies in shadows, cast by the *last light* mixing with the *Great Fangs of the Maw*, giving the Demons only a taste of *true life* - just enough to whet their appetites. 
 
-No one has plumbed the unceasing ever twisting depths of Apollyon, but we know eventually it births out into **Pandemonium** 
+No one has plumbed the unceasing ever twisting depths of Apollyon, but we know eventually it births out into **Pandemonium** below. As well, it's upside down is intimately woven into the **Shadow Plane** for such was the side-effect of the unblancing by the **Eternal Seal**. 
 
 The Demons and their kin are eternally caught in a two-front war. Above them, blocking the way into the higher planes are the Devils - while below them are the soul devourers, the Daemons.
 ### The Primordial Chaos, Pandemonium (Chaos)
