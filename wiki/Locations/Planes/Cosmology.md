@@ -65,6 +65,15 @@ Now the First World is a primeval and emotional realm of nature spirits left ove
 ### Earth
 ### Ethereal Plane
 ### **Material Plane**
+8 Known Planets of the Material Plane: 
+- **Ylon**: Closest to the Star, a terrestial planet of boiled rock and heat blasted iron. 
+- **Hygiea**: A planet of violent storms that is mostly oceans of mercury. Completely inhospitable. Second from the star.
+- **Nede**: Main planet of the campaign setting, earth-like. 3rd from the star. 
+- **Aegas**: A temperate terrestial planet, rotates at 90` of the plane. Regarded as a "garden world". 4th from the Star. 
+- **Syne**: A terrestial frozen world with intense ash clouds from runaway volcanic activity. 5th from star.
+- **Sorae**: An frigid ocean world of methane seas with terrestial archipelagos. 6th from the Star. 
+- **Pallas**: A glittering gem of an massive stellar geode that has been cracked open like an egg. 7th from the Star. 
+- **Serec**: A frozen gas giant of gargantuan proportions, islands of terrain float in the hydrogen/helium medium. 8th planet. 
 ### Shadow Plane
 ### Negative Energy Plane
 ### Astral Plane
@@ -74,6 +83,15 @@ Now the First World is a primeval and emotional realm of nature spirits left ove
 ### The Seven Heavens, Solymn (Good)
 Elys(like Elysium), Zion(Like Heaven), Nirvana(like Peace), Iteru (like the Nile), Shangrila(like Urban), Sovnstol(like Valhalla).
 ### The Great Tyranny, Gehenna (Law Evil)
+8 Known Planets of Gehenna: 
+- **Avernus**: analog of **Ylon**
+- **Dis**: analog of **Hygiea**
+- **Minauros**: analog of **Nede**
+- **Phlegethos**: analog of **Aegas**
+- **Stygia**: analog of **Syne**
+- **Malbolge**: analog of **Sorae**
+- **Maladomini**: analog of **Pallas**
+- **Cania**: analog of **Serec**
 ### The Endless Desolation, Abaddon (Neutral Evil)
 ### The Ravenous Dark, Apollyon (Chaos Evil)
 ### Infinite Tower of Babel
