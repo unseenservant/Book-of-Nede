@@ -11,6 +11,14 @@
 
 ## Chapter 2 
 
+### Schlecter Stein
+A brilliant but disgruntled academic whose theories are correct - though no one believes him.
+Like a nazi scientist, enamored with studying foul topics; he tortured, dissected, bound a familiar of **Rot** into his blackblade. 
+Schlecter wants to use the **Tablet of Asthenia** and **The Book of Nede** to open the path into the depths of *Skelgrav* where he can release **Zh'Ash**. 
+His **BlackBlade** however, works for the **Cordyceps Mound**, who does not want the **baby-Zh'Ash** to be released, but wishes to absorb it's spirit - becoming free of it's bounds to the Elder God. 
+Unknowing of the difference between the master's it serves - **Schlecter** has been allowing Cordyceps fungus to infect himself and his followers; unintentionally ensuring their servitude to **the Mound** instead of **Zh'Ash** himself. 
+
+Schlecter remembers where in the *Underdark* he found the **Book of Nede**, which was an *ancient Goblin Colony* 
 ## Miscellaneous 
 
 ### Dikkori, Brother of Hikori 
