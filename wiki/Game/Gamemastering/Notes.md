@@ -18,7 +18,12 @@ Schlecter wants to use the **Tablet of Asthenia** and **The Book of Nede** to op
 His **BlackBlade** however, works for the **Cordyceps Mound**, who does not want the **baby-Zh'Ash** to be released, but wishes to absorb it's spirit - becoming free of it's bounds to the Elder God. 
 Unknowing of the difference between the master's it serves - **Schlecter** has been allowing Cordyceps fungus to infect himself and his followers; unintentionally ensuring their servitude to **the Mound** instead of **Zh'Ash** himself. 
 
-Schlecter remembers where in the *Underdark* he found the **Book of Nede**, which was an *ancient Goblin Colony* 
+Schlecter remembers where in the *Underdark* he found the **Book of Nede**, which was an *ancient Goblin Colony* deep underneath central **Teir**. 
+
+### Sybil & Ulrich Montagu
+
+blah blah blah
+Captured by **Last Laugh Members** along with **Luxu & Hikori**. While Ivan & the PCs were brought to *Heinburg*, the Counts are to be sent to the Emhrais guild for ransom. 
 ## Miscellaneous 
 
 ### Dikkori, Brother of Hikori 
