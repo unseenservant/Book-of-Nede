@@ -1,0 +1,63 @@
+--- 
+Name: "Ghast"
+Race: Feral Ghast
+Speed: 40ft 
+Senses: 
+  - Darvision 60ft
+  - Perception +10
+Abilities: 
+  - str: 21
+  - dex: 17
+  - con: '-'
+  - int: 13
+  - wis: 20
+  - cha: 18
+Class: 
+  - Name: "Ghast"
+  - Level: 2
+Defenses: 
+  - HP: 38 (4d10+16) 
+  - AC: 22
+    Formula: (10 + 10 (Natural) + 3 Dex + )
+  - Saves:
+    Fort:   +4
+    Reflex: +3
+    Will:   +8
+  - Channel Resistance: +2
+Combat:
+  - Initiative: +3
+  - BAB: 1
+  - Combat Maneuver: 
+    CMB: +6
+    CMD: 18
+  - Attacks:
+    2 Claws:
+    - +6 
+    - 1d8+5
+    Bite:
+    - +6 
+    - 1d6+5
+    Quills: 
+    - +1
+    - 1d4+4
+  - Special Attacks: |
+      Improved Grab
+      Pounce
+Special Abilities:
+  Paralysis: 1d4+1 rnds, DC 15
+  Stench: 1d6+4 minutes, DC 15
+  Disease: Ghoul Fever DC 15
+  Quill Defense: | 
+    Any creature that strikes a ghast 
+    with a non-reach melee weapon, 
+    unarmed strike, or natural weapon 
+    takes 1d4+4 points of piercing damage 
+    from the ghast’s quills.
+  Feats: 
+    - 1st: Throat Slicer
+
+
+
+
+
+
