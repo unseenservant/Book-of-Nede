@@ -20,9 +20,9 @@ Set his arms at his side, and provisioned himself for war.
 
 When Rennard arrived, he immediately found the Fjenstan army had progressed into the valley of his inheritance 
 
-He heft a greataxe, Hellrime and fought to defend his family's land against the Fjenstan incursion
+He heft a greataxe, **Hellrime** and fought to defend his family's land against the Fjenstan incursion
 
-With the war eventually done his Barony was proclaimed his again in victory. And he was welcomed into the court of Emhrais
+With the war eventually done the Barony was proclaimed his again in victory. And he was welcomed into the court of Emhrais
 
 ### The Truth
 

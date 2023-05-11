@@ -1,0 +1,66 @@
+Skylax: "Baron Rennard Dryhart"
+Init: +0
+HD: '15d12 (255)'
+AC: '34, touch 8, flat-footed 34 (+4 Shield, +4 Mage Armor, +18 natural, -2 size)'
+Damage Reduction: 5/magic
+Immunities: Fire, Paralysis, Sleep
+Resistances: 
+Weaknesses: 
+  - Vulnerability to Cold
+Saves: 
+ - Fort: +14 
+ - Ref: +9 
+ - Will: +11
+Abilities: 
+  - STR: 29 (31)
+  - DEX: 10
+  - CON: 21
+  - INT: 14
+  - WIS: 15
+  - CHA: 14
+BAB: 15
+CMB: +26
+CMD: 36 (40 vs. trip)
+Attacks: 
+  Tail Slap: +20 1d6+13
+  2 Wings: +20 1d8+4
+  2 Claws: +22 2d6+9
+  Bite: +22 2d8+13
+  Hellrime: +25 1d12+1d6+15
+Special Attacks:
+  Breath: 50ft Cone of 10d10[Fire]; DC22, *Sticky*
+  Crush: Small creatures; DC 22 2d8+13
+Feats: | 
+    1 Power Attack
+    2 Flyby Attack
+    3 Awesome Blow
+    4 Vital Strike
+    5 Improved Vital Strike
+    6 Improved Bull Rush
+    7 Multiattack
+    8 Imp Init
+Spells: 
+  Spell-Like: 
+    - @will detect magic
+    - @will pyrotechnics
+    Spells:
+      2nd: 
+        - Suggestion
+        - Detect Thoughts
+      1st: 
+        - Charm Person
+        - Interrogation
+        - Vanish
+        - Color Spray
+        - Shield
+        - Magic Missile
+        - Mage Armor
+      0th: 
+        - Arcane Mark
+        - Bleed
+        - Light
+        - Mage Hand
+        - Message
+        - Read Magic
+Items: | 
+    Ring of Seeming (attuned to the real Baron Drynhart)

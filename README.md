@@ -7,3 +7,10 @@
 
 ## Join our [Discord](https://discord.gg/UKKkp7EQ3d) channel!
 
+## TODO
+
+- [x] Stat out Eden Garrick, Paladin of Sola
+- [] prep Baron Rennard dungeon & encounter(s)
+- [] Eliminate DM-only Versions & opensource GitHub
+- [] foo bar
+- [] foo bar
