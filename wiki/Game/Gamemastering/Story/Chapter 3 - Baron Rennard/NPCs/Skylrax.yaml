@@ -30,6 +30,7 @@ Attacks:
 Special Attacks:
   Breath: 50ft Cone of 10d10[Fire]; DC22, *Sticky*
   Crush: Small creatures; DC 22 2d8+13
+  Awesome Blow: +26, 20ft fling distance
 Feats: | 
     1 Power Attack
     2 Flyby Attack
@@ -38,7 +39,7 @@ Feats: |
     5 Improved Vital Strike
     6 Improved Bull Rush
     7 Multiattack
-    8 Imp Init
+    8 Mighty Blow 
 Spells: 
   Spell-Like: 
     - @will detect magic

@@ -50,6 +50,36 @@ He knows his Chateau is virtually a fortress - and his draconic lair built into 
 
 ## Story 
 
+### Background 
+For the last 42 years, **Skylrax** in the guise of Baron Rennard Drynhart has chafed under the authority of **Quaker Mistletoes** in secret. The gnome has held sway over him, showing himself to be a powerful political benefactor, and of uncontendable magical might for **Skylrax** to overcome. 
+
+So, adding it all as just one more facet of the role he plays pretending to be the Baron, **Skylrax** acts the part of a noble doing the bidding of his feudal lord. 
+
+In recent days, unbeknownst to the Dragon, **Mistletoes'**s plan has progressed significantly, achieving the proof-of-concept in bringing **Calaran's Moon** to the Material Plane, a significant cult from Heinburg has come sniffing around his territory killing and terrorizing his serfs, a *fateborn* child was born on his doorstep, and the *druid's circle* has evaporated into thin air, the goblins and orcs have been roused from the deep, and a band of would-be heroes has been causing chaos in his quiet lands. 
+
+All of this has put **Skylrax** on edge, he fears something is coming to threaten his position, and his instincts tell him that **Mistletoes** can no longer be trusted. 
+
+This has made him paranoid; even more prone to harsh punishments upon his serfs that in the past. 
+
+When the PCs departed so mysteriously from **Cairndal**, they had exhumed **Lysanne Montagu's** body from its grave. This gave **Skylrax** the clue he needed to piece together large pieces of the puzzle. Moreover, the scraps of Lysanne's Diary that had been given to **the Burgomeister** illuminated for him the purpose of the cult. 
+
+So he took Lysanne's body and through some simple magical exercises, worked out her lineage. When he realized she was of royal blood, he found an opportunity to introduce a little chaos to the otherwise unfathomable purposes driving his lands out from under his iron-clawed rule. 
+
+He hired some miscreants (ironically, **Last Laugh** guild members belonging to the very cult he sought to investigate) to retrieve **Ulrich** and **Sybill** **Montagu**, after they failed to respond to his ransom letter for their daughter's body. 
+
+His plan being, that once they were apprehended, they could be ransomed back to the King of Fjenst for a hefty sum, or bartered with to kick start a new war of conquest from Fjenst - where he could betray **Mistletoes** in favor of a dukedom within Fjenst. 
+
+### The Adventure
+
+When the PCs return to **Cairndal valley** they'll find it's villages under severe oppression, Baron Rennard ekeing every last penny out of them in tax money - new sheriff's beating or imprisoning resistors. 
+
+The Baron's chateau is a fortress and it will take all of the barony's might to rise up and throw off the shackles of their oppressor. 
+
+The PCs will have to move from faction to faction, enlisting their aid to form an Army capable of over-throwing the Baron. 
+
+The Baron also has a few aides of his own, powerful NPC commanders who support him and will need to be incapacitated if the villagers are to have any chance at winning. 
+
+
 ### Outline: 
 1. PCs rally support
     - [ ] Frederiksborg
@@ -61,9 +91,12 @@ He knows his Chateau is virtually a fortress - and his draconic lair built into 
     - [ ] Emhrais? 
 
     Meet with Spies & Mercenaries, or other agents of the Dragon along the way
-
-2. PCs Scout/Plan attack on Chateau
-3. PCs lead the attack, or infiltrate the Chateau ahead of the main force
-4. PCs disable Seige-breakers 
-5. PCs engage **Skylrax** to prevent him from decimating the army with fire 🔥 himself. 
-6. **Skylrax** retreats into his Caverns, PCs pursue, ultimately defeating or driving him off.  
+2. PCs disable Commanders
+    - [] **Yormig Caskflayer**, leader of the Steelspine Company
+    - [] **Rhazin the Bloody**, A Frostgiant outcast, leading a gang of the giants. 
+    - [] **Yvette** (Moon Hag), **Estella** (Annis Hag), **Addie** (Green Hag) ; a coven the Baron uses to provide magical insight. 
+3. PCs Scout/Plan attack on Chateau
+4. PCs lead the attack, or infiltrate the Chateau ahead of the main force
+5. PCs disable Seige-breakers 
+6. PCs engage **Skylrax** to prevent him from decimating the army with fire 🔥 himself. 
+7. **Skylrax** retreats into his Caverns, PCs pursue, ultimately defeating or driving him off.  
