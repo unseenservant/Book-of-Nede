@@ -77,8 +77,35 @@ While that is going on, the PCs should be alerted by trouble in Cairndal that vi
 
 This should give the PCs plenty of reason to break the Luxite barrier and enter the laboratory. 
 
-Once inside the PCs will have to move relatively quickly, while also ensuring containment. 
+Once inside the PCs will get a sense for the alien Phaerrim architecture, and penetrate fairly deeply until discovering 2 things. Confratae's betrayal, and the Hive larvae chamber. 
 
+After which, if the PCs haven't figured out yet that they can't let the Hive forms escape -- the Ahamkara Centipede will give them the hint. 
+
+As the PCs return to the entrance to ensure the Hive forms don't escape immediately, this a great time for **Confratae** to betray the party and make off with the *Skullcandle*. If the PCs don't realize they need to split their attention, have them begin to sense the summoning energies as she calls her celestial lover. 
+
+As the PCs explore the laboratory, they should come across the following: 
+
+- a testing chamber of defunct and broken Titancraft Golems
+- Slaadi in testtubes along with Cordyceps samples & development notes indicating the creation of the arcano-organic virus
+- A goblinoid fleshwarping Tome 
+- innoculations against the Cordyceps Spores (relevant for proceeding into the Cathedral Spire later)
+
+While exploring the PCs should be assailed by: 
+
+1. Hive warrior forms
+2. Hive larvae swarms
+3. Greater Cordycep Host Phaerrim,
+4. Arcano-organic ancient goblins
+5. blood oozes 
+6. (later) Daemons **Confratae** calls to defend her
+
+Eventually, the PCs will find the sealed doors to the **Cathedral Spire** with a great *artifact warding* placed upon it. 
+
+The spell is written in *Ancient Phaerrim* and is utterly untranslatable by magic, and the language is a 'secret' language -- therefore, a translation key must be discovered (Finzelzin). The inscription, when translated reads: 
+
+> *To our kin who survive us. Sealed within is an ancient temple of our people wrought in service to a foreign being of great power and influence. We who built this seal came to find our people in worship and thrall to this foreign entity and so we imprisoned them and it. However, the knowledge and power it possesses we coveted and built this institute to study it's abilities. We have learned much; though never have we unsealed this great seal -- still it's might we can feel and influence we must constantly defend against. Our enemies surround us and our territory is insecure. We do what we must, because we relish to do so. Yet, never must this be unsealed, no matter the reward.*
+> 
+> *If ever, it must be broken: a legendary Fiend must channel Holy Word through a Disjunction on the night of a full moon while dying*
 ### Summary
 
 1. Villagers abducted, PCs may investigate false leads + Rumors of Dwarven recruitment for excavation
@@ -113,7 +140,7 @@ By the end of the Adventure the PCs
 
 ... and learned about/from
 
-- the corrupted Titan
+- the Titancraft Golem's defeat
 - the Slaadi as inspiration for the Hive
 - that the **Shadow Homunculus** helped **Confratae**
 - the Ahamkara Centipede
