@@ -79,4 +79,43 @@ This should give the PCs plenty of reason to break the Luxite barrier and enter 
 
 Once inside the PCs will have to move relatively quickly, while also ensuring containment. 
 
+### Summary
+
+1. Villagers abducted, PCs may investigate false leads + Rumors of Dwarven recruitment for excavation
+2. **Confratae** possesses an NPC or otherwise infiltrates the Party and tags along
+3. PCs make their way into Skelgrav, destroying the Luxite Barrier. **PCs should penetrate fairly deeply** ala Alien v. Predator; before discovering the Hive menace. 
+4. Cordyceps Spores are 'leaking' from Centipede chasm 
+5. PCs should realize **containment** should be a priority very quickly. **Ahamkara Centipede** can make an appearance to reinforce this. 
+6. **Confratae** should make off with ***Skullcandle*** to add a ticking clock to the adventure, ideally, just as PCs figure out how to successfully contain the Hive
+7. PCs stop **Confratae**'s ritual
+8. PCs defeat the Hive Queen
+9. PCs discover **Phaerrim sealed door** to *Cathedral Spire*
+
 ## Conclusion
+
+By the end of the Adventure the PCs 
+- should be at least level 9 
+- Have an idea of where to go to translate the **Phaerrim Door**
+- Have eradicated/neutralized the **arcano-organic virus**
+- Have eliminated the Cordyceps Spore fungi
+- Have eliminated the (local) Hive Queen
+- Have dealt with the Ahamkara Centipede
+- Have prevented the completion of **Confratae**'s ritual
+
+... and the PCs should have collected
+
+- the *Scarab of Protection* 
+- the Goblinoid *Tome of Nyctimene* (on fleshwarping)
+- the Phaerrimcraft *Spear of Shozul* (+2 Adamantine Zealous [anti-neutral aligned] impact golembane spear (+7))
+- the **anti-Cordyceps innoculation**
+- **Confratae**'s necklace of *Gr. Shadow Transmutation* given to her by Mistletoes's Homunculus 
+
+
+... and learned about/from
+
+- the corrupted Titan
+- the Slaadi as inspiration for the Hive
+- that the **Shadow Homunculus** helped **Confratae**
+- the Ahamkara Centipede
+- the Cathedral Spire further below
+- the **arcano-organic virus**
