@@ -38,10 +38,45 @@ The *light barrier* still holds in place over the main entrance and the Elven cu
 
 The PCs had encountered the Ahamkara Centipede that still resides within the Laboratory -- it had remained hidden all these eons including from the Luxite crudsaders. However, it did not expect to become *trapped* by the light barrier. 
 
-It's only hope of exit -- and freedom from the 
+It's only hope of exit now -- and freedom from the growing influence of the awakening **Cordyceps Mound** -- is to burrow it's way up from the lower levels and out the ritual chamber. Since the PCs failed to reassure it of their return with the means to break the Luxite barrier. 
+
+As the Centipede-god burrows upward, it widens the passage for the horrors of the Phaerrim lab to grow and spread. Including Cordyceps fungi that had burst their containment ages ago, now sprout and spore up from the ritual chamber chasm. 
+
+Not yet able to squeeze through, though ever closer to it's freedom, the Ahamkara Centipede chips away at the chasm widening it. 
+
+The recent defeat of **Schlecter Stein**, the death of Ivan, has roused the **Avatar of Zh'Ash** in **Aithzonthan** and stirred it to take action to free it's true self. To that end, it must reassert control - or eliminate - the **Cordyceps Mound**; and so while it's direct influence is blocked both by the fundamental boundaries and the Titan Ring; it is able to assert some influence over **the Hive**. 
+
+Thus, the Hive are provoked to make their exit from the Laboratory using the same chasm the Ahamkara Centipede is widening; to abduct and infest new victims in hopes of breaking the Phaerrim seal on the Cathedral Spire beneath the lab. The Hive elsewhere on Nede are stirred in the underdark to come and assist, assailing the dwarves of Silverroot. 
+
+Finally, the unique Daemon **Confratae** has been dispatched by **Zh'Ash** to enact a great ritual that will sunder the Titan Seal - a Celestial's Self-Sacrifice explicitly to break the seal should be sufficient, especially after engaging in several unholy orgies with **Confratae** in the depths of the Laboratory. She has already slipped inside via the chasm -- and her lover is with the PCs (Lysanne's **SkullCandle**).
 
 
 
 ## Adventure
+
+In recent days villagers from Cairndal, Silverroot and the surrounding environs have disappeared suddenly. The Werewolf(ves) are to blame, or Hags. But it is actually The Hive foraging for victims and returning them to the laboratory to infest. 
+
+- 10 days after the 'official start' of the adventure, the Hive will have enough warrior forms to rend the seal and break into the Cathedral Spire 
+
+Additionally, the Erodaemon **Confratae** has made a bargain with the Ahamkara Centipede (Who has told her of the PCs from chap 1). She will get the PCs to come and release the barrier, in exchange for the Centipede's cooperation showing her around the lab facility. 
+
+- If she is able to trick / steal the Celetial Skullcandle from the PCs and free / imbue her lover; he will self-sacrifice himself for her 'love' and break the Titanic Seal. 
+- If she is discovered or confronted and cannot talk her way out of it with the PCs -- she will go and await them in the depths of the Lab to prepare for her ritual. 
+
+Finally, 
+
+The Ahamkara Centipede is continuing to burrow out from the Chasm, in an attempt to escape. It has made a deal with the Erodaemon, but it does not expect her to honor the bargain. As a backup, it has released several Puppeteers through tiny cracks into the underdark possessessing Silverroot Dwarves and leading them to excavate the Lab from their mining tunnels. 
+
+- 20 Days after the 'official start' of the adventure, the Dwarves will have dug into the Lab; releasing the Centipede god as well as providing the perfect exfiltration for the Hive and the deeper horrors of the (by then released) Cathedral Spire into the wider world. 
+
+### Step-by-Step
+
+The PCs will be approached by **Confratae** in the guise of a half-elven Thaumaturge, she will seek to befriend the PCs - flirting with whomever will engage with her; and seeking to come along on their adventures. She knows the PCs have the **Skullcandle** and will subtley steer them to letting her summon the celestial for an reasonable cause she can concoct. 
+
+While that is going on, the PCs should be alerted by trouble in Cairndal that villagers have been going missing again. Unknowingly abducted by the Hive, the villagers blame Werewolves or Hags for the disappearances. The PCs can find a young local Hag who was rejected by the Moon Hag's coven who will 'explain' that it was not her. Similarly, Athena can explain that it isn't the werewolves. Even a little further invesitgation will prove the abductees were taken into Skelgrav. 
+
+This should give the PCs plenty of reason to break the Luxite barrier and enter the laboratory. 
+
+Once inside the PCs will have to move relatively quickly, while also ensuring containment. 
 
 ## Conclusion
