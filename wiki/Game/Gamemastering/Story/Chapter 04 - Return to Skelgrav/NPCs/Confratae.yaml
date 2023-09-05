@@ -1,0 +1,158 @@
+--- 
+Name: "Confratae"
+Race: "Unique EroDaemon"
+Abilities: 
+  - str: 17
+  - dex: 21
+  - con: 21
+  - int: 19
+  - wis: 18  
+  - cha: 22
+Class: 
+  Outsider: 
+    Level: 14
+  Ur-Priest: 
+    Level: 6
+Defenses: 
+  - HP:  147
+  - AC: 32 
+    Formula: (+5 Dex, +8 Dodge, +9 Natural) 
+  - Damage Reduction: 10/good or silver
+  - Saves:
+    Fort:     11
+    Reflex:   16
+    Will:     17  
+Combat:
+  - Initiative: 9
+  - BAB: 18
+  - Combat Maneuver: 
+    CMB: 19
+    CMD: 34
+  - Attacks: 
+    Bite: +19 1d6+4 + 1d4 CHA drain
+    2 Claws: +19 1d6+4
+Special Abilities:
+  Object of Desire: |
+      While using its detect thoughts ability, 
+      an erodaemon can see into the mind of a humanoid 
+      and identify the person the target most desires, 
+      whether it be a lost loved one or an object of lust. 
+      As a full-round action, the erodaemon can change into the 
+      form of this desired person as long as the target is a 
+      Small, Medium, or Large humanoid. The erodaemon gains 
+      a +20 bonus on its Disguise and Bluff checks to impersonate 
+      that person and avoid being detected as a fraud, 
+      but spells like true seeing negate this effect as 
+      normal. This effect ends if the erodaemon attacks 
+      any creature. Actions that could reveal the erodaemon 
+      as a fraud (such as performing an action that 
+      the imitated person would obviously not do, 
+      like cast a spell or speak Infernal) require the 
+      erodaemon to make an immediate Bluff check to 
+      continue the impersonation, with the erodaemon 
+      losing some or all of its bonus depending on the 
+      severity of the breach (GM’s discretion).
+  wilting kiss: |
+      An erodaemon can draw a mortal into a state of 
+      obsession with its kiss. An unwilling victim must 
+      be grappled before the erodaemon can use this 
+      ability. A creature affected by this kiss must 
+      make a DC 23 Will save or become obsessed with 
+      the erodaemon, an obsession the erodaemon feeds 
+      on. Each round the target is more than 30 feet 
+      away from the erodaemon, it must make an 
+      additional DC 23 Will save. Failing the save 
+      means that the sheer pain of her absence deals 
+      1 point of Charisma drain to the subject that 
+      round. Succeeding at the Will save two consecutive 
+      times ends the effects of this ability. Spells 
+      such as dispel magic and break enchantment end 
+      this effect. The save DC is Charisma-based.
+Class Features:
+  Ur-Priest:
+    - Rebuke Undead
+    - Divine Spell Resistance 15
+    - Siphon Spell Power: |
+        Because they steal whatever power they can, 
+        ur-priests learn to manipulate their energy in
+        ways that confound other casters. An ur-priest 
+        of 6th level or higher can temporarily sacrifice
+        two (or more) lower-level spell slots and use 
+        those slots to prepare a higher-level spell. 
+        The higher-level spell must be of a level the 
+        ur-priest can cast. Only one exchange of this 
+        sort can be made each day. The levels of the 
+        lower-level slots are totaled, then reduced to 
+        three-quarters (round down) to determine the 
+        level of the extra higher-level spell slot. 
+        For example, an ur-priest who sacrifices a 
+        3rd-level spell and a 5th-level spell can use 
+        that spell slot to prepare an additional 6th-level
+        spell (3 + 5 = 8, and 8 × 3/4 = 6).
+Feats: 
+  - 1st: Still Spell
+  - 3rd: Dodge
+  - 5th: Ozyluth's Guile
+  - 7th: Improved Initiative
+  - 9th: Spell Focus (Conjuration)
+  - 11th: Augment Summoning
+  - 13th: Sacred Summons (NE)
+  - 15th: Superior Summoning 
+  - 17th: Summon Evil Monster
+  - 19th: Silent Spell
+Spell-like Abilities:
+  Constant: 
+    - detect good
+    - detect thoughts
+    - tongues
+  At will: 
+    - death knell 
+    - greater teleport
+    - unnatural lust
+  3/day: 
+    - desecrate
+    - crushing despair
+    - enervation
+    - suggestion
+  1/day: 
+    - modify memory
+    - summon (level 4 1d3 ceustodaemons 35%)  
+    - utter contempt
+Cleric Spells: 
+  Base DC: 16
+  0th: ∞/day of 6 prepared of ∞ known
+    - asad
+  1st: 4/day prepared of ∞ known
+    - Command
+    - Summon Monster 1 ()
+    - Hide from Undead
+    - Sanctuary
+  2nd: 4/day prepared of ∞ known
+    - Summon Monster 2 (Hunted Petitioner)
+    - Hold person
+    - Shaatter
+    - Silence
+  3rd: 4/day prepared of ∞ known
+    - Dispel Magic
+    - Summon Monster 3 (Howler)
+    - Bestow Curse
+    - Stoneshape
+  4th: 3/day prepared of ∞ known
+    - Summon Monster 4 (Yeth Hound)
+    - Unholy Blight
+    - Spell Immunity 
+  5th: 2/day prepared of ∞ known
+    - Summon Monster 5 (Fiendish Dire Lion)
+    - Flame Strike
+  6th: 1/day prepared of ∞ known
+    - Summon Monster 6 (Shadow Demon)
+
+
+
+
+
+
+
+
+
+
