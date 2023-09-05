@@ -83,8 +83,8 @@ The Baron also has a few aides of his own, powerful NPC commanders who support h
 ### Outline: 
 1. PCs rally support
     - [ ] Frederiksborg
-    - [ ] Cairndal
-    - [ ] Afsdal
+    - [x] Cairndal
+    - [ ] ~~Afsdal~~
     - [ ] Mountain Thorps
     - [x] Elves?
     - [ ] Silverroot? 
@@ -94,7 +94,7 @@ The Baron also has a few aides of his own, powerful NPC commanders who support h
 2. PCs disable Commanders
     - [] **Yormig Caskflayer**, leader of the Steelspine Company
     - [] **Rhazin the Bloody**, A Frostgiant outcast, leading a gang of the giants. 
-    - [] **Yvette** (Moon Hag), **Estella** (Annis Hag), **Addie** (Green Hag) ; a coven the Baron uses to provide magical insight. 
+    - [] **Yvette** (Moon Hag), **Estella** (Storm Hag), **Addie** (Green Hag) ; a coven the Baron uses to provide magical insight. 
 3. PCs Scout/Plan attack on Chateau
 4. PCs lead the attack, or infiltrate the Chateau ahead of the main force
 5. PCs disable Seige-breakers 

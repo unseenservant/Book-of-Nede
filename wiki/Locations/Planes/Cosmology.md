@@ -1,32 +1,32 @@
 # Cosmology of Nede
 
 ## Inner Planes 
-Positive Energy Plane
-First World
-Fire
-Air
-Water
-Earth
-Ethereal Plane
-**Material Plane**
-Shadow Plane
+Positive Energy Plane \
+First World \
+Fire \
+Air \
+Water \
+Earth \
+Ethereal Plane \
+**Material Plane** \
+Shadow Plane \
 Negative Energy Plane
 
 ## Enveloping Planes
-Astral Plane
+Astral Plane \
 Halls of the Dead
 
 ## Outer Planes
 
-The Eternal Seal,  Ordo (Law)
-The Primordial Chaos, Pandemonium (Chaos)
-The Seven Heavens, Solymn (Good)
-The Great Tyranny, Gehenna (Law Evil)
-The Endless Desolation, Abaddon (Neutral Evil)
+The Eternal Seal,  Ordo (Law) \
+The Primordial Chaos, Pandemonium (Chaos) \
+The Seven Heavens, Solymn (Good) \
+The Great Tyranny, Gehenna (Law Evil) \
+The Endless Desolation, Abaddon (Neutral Evil) \
 The Ravenous Dark, Apollyon (Chaos Evil)
 
 ## DemiPlanes
-Infinite Tower of Babel
+Infinite Tower of Babel \
 Mirror Dimension
 
 ## The Planar Structure
