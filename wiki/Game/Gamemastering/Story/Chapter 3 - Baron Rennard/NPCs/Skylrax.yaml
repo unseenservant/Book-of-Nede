@@ -1,6 +1,6 @@
 Skylax: "Baron Rennard Dryhart"
 Init: +0
-HD: '15d12 (255)'
+HD: '15d12 (300)'
 AC: '34, touch 8, flat-footed 34 (+4 Shield, +4 Mage Armor, +18 natural, -2 size)'
 Damage Reduction: 5/magic
 Immunities: Fire, Paralysis, Sleep
@@ -14,10 +14,10 @@ Saves:
 Abilities: 
   - STR: 29 (31)
   - DEX: 10
-  - CON: 21
+  - CON: 27
   - INT: 14
   - WIS: 15
-  - CHA: 14
+  - CHA: 24
 BAB: 15
 CMB: +26
 CMD: 36 (40 vs. trip)
@@ -38,7 +38,7 @@ Feats: |
     4 Vital Strike
     5 Improved Vital Strike
     6 Improved Bull Rush
-    7 Multiattack
+    7 CMB-R
     8 Mighty Blow 
 Spells: 
   Spell-Like: 
