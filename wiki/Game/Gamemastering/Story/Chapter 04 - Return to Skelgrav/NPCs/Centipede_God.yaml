@@ -1,0 +1,79 @@
+--- 
+Name: "Xhitxhit"
+Race: "Ahamkaran Puppeteer"
+Abilities: 
+  - str: 26
+  - dex: 12
+  - con: 22
+  - int: 14
+  - wis: 16  
+  - cha: 14
+Class: 
+  Magical Beast: 
+    Level: 13
+Defenses: 
+  - HP: 174
+  - AC: 23
+    Formula: (+4 armor, +1 haste, +1 Dex, +7 Natural) 
+  - Damage Reduction: 5/magic
+  - Saves:
+    Fort:     13
+    Reflex:   4
+    Will:     6
+Combat:
+  - Initiative: +1
+  - BAB: 13
+  - Combat Maneuver: 
+    CMB: 28
+    CMD: 42
+  - Attacks: 
+    Bite: +15 2d6+23
+    Vital Strike Bite: +15 8d6+23 
+    2 Tail Blades: +15 1d8+23
+Special Abilities:
+  Compression: |
+      The creature can move through an area as small 
+      as one-quarter its space without squeezing or 
+      one-eighth its space when squeezing.
+  Puppeteer Telepathic Bond:
+      The Ahamkaran Puppeteer has a permanent telepathic 
+      bond with other Puppeteers within a 100 mile radius.
+  Poison: | 
+    Bite—injury; save Fort DC 21; 
+    frequency 1/round for 6 rounds; 
+    effect 1d4 Dex; cure 1 save. 
+    The save DC is Constitution-based.
+Feats: 
+  - 1st:  Multiattack
+  - 3rd:  Power Attack
+  - 5th:  Stealthy
+  - 7th:  Improved Sunder
+  - 9th:  Vital Strike
+  - 11th: Improved Vital Strike
+  - 13th: Gr. Vital Strike 
+Spell-like Abilities:
+  Constant: 
+    - Blur
+    - Haste
+    - False Life, Greater
+  At will: 
+    - Charm Monster
+    - Detect Magic
+  3/day: 
+    - Mage Armor
+  1/day (for others only): 
+    - Limited Wish
+    - Contact Other Plane
+    - Sending
+    - Scrying, Greater
+    - Vision
+
+
+
+
+
+
+
+
+
+
