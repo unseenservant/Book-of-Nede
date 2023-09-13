@@ -1,0 +1,67 @@
+Type: aberration (hive)
+Init: +8
+Senses:
+ blindsense 60 ft., blindsight 10 ft., hive mind; Perception +22
+
+Defenses: 
+  AC: 26
+    - Formula: (+4 Dex, +16 natural, –2 size)
+  HP: 157 (15d8+90)
+  Saves:
+    Fort: +11 
+    Ref:  +11 
+    Will: +15
+Defensive Abilities:
+  - Corrosive blood; (1d8 acid)
+  - Heat adaptability
+  Immunities: Acid
+
+Offense:
+  Speed: 50 ft., climb 20 ft.
+  Attacks:
+    Melee: 
+    - bite +20 (2d6+11 /19–20), 
+    - 2 claws +20 (1d10+11 /19–20), 
+    - tail slap +18 (2d6+5)
+  Reach: | 
+    Space 15 ft.; Reach 15 ft. (20 ft. with tail slap)
+  Special Attacks: 
+    - death throes (15d6, DC 23)
+
+STATISTICS:
+    - Str: 32
+    - Dex: 23
+    - Con: 23
+    - Int: 19
+    - Wis: 22
+    - Cha: 10
+    Base Atk: +11
+    CMB: +24
+    CMD: 40
+  Feats: 
+    - Combat Reflexes
+    - Improved Critical (bite)
+    - Improved Critical (claw)
+    - Improved Initiative
+    - Improved Vital Strike
+    - Multiattack
+    - Power Attac
+    - Vital Strike
+Skills: 
+  - Climb +37
+  - Perception +24
+  - Sleight of Hand +21
+  - Stealth +16
+  - Survival +24
+  - Swim +29
+
+SPECIAL ABILITIES:
+
+  Egg Layer (Ex): | 
+    Once per week, a hive queen can lay a cluster of eggs, 
+    which hatch into 2d6 hive larvae swarms after 1d4 days.
+
+  Telepathy (Su): |
+    A hive queen can communicate telepathically with any 
+    creature with the hive subtype within 1 mile.
+    This telepathy conveys empathic concepts rather than true language.
