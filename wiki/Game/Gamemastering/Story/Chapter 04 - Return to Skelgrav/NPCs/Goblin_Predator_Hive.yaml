@@ -1,0 +1,54 @@
+Name: "Generic Ancient Goblin Predator Hive Creature"
+Race: "Ancient Goblin Predator Hive Creature"
+Abilities: 
+  - str: 19
+  - dex: 17
+  - con: 18
+  - int: 10
+  - wis: 16
+  - cha: 5
+Class: 
+  - Name: "Aberration"
+  - Level: 10
+Defenses: 
+  - HP: 85
+  - AC: 29
+    Formula: (Dex +3, Natural +16)
+  - Saves:
+    Fort:   8 
+    Reflex: 7
+    Will:   11
+Combat:
+  - Initiative: +3
+  - BAB: 7
+  - Combat Maneuver: 
+    CMB: 11
+    CMD: 24
+  - Attacks: 
+    Melee:
+      Bite: +10 3d6 +6
+      4 claws: +9 1d8 +4
+    Ranged: 
+      Acid Spit: 10d6 for 1d3 rounds
+Special Abilities:
+  Acid Spitter: |
+      This handheld weapon makes ranged touch attacks with a range 
+      increment of 10 feet and a maximum range of 50 feet. Those 
+      struck by the glob of acid take 10d6 points of damage. It bears 
+      a vague resemblance to a repeating crossbow, although it has a 
+      bulbous green membrane attached to its top. The acid spitter 
+      can be used 10 times per hour.
+  Extra Armor: |
+      Extra chitinous plates are fitted to the kython's body, adding 
+      +2 to its existing natural armor bonus.
+  Phase Organ: |
+        This small fleshy pod fits upon the forehead of the kython, 
+        grafting into place permanently. It allows the kython to 
+        become incorporeal (or corporeal again) as a free action. 
+        It cannot use this supernatural ability more than once per 
+        round. Add +1 to the Challenge Rating of a kython with this 
+        device.
+Feats: 
+Spells: 
+
+
