@@ -1,0 +1,117 @@
+Name: "Generic Phaerimm Hive"
+Race: "Phaerimm Hive Creature"
+Senses:
+  - Blindsense: 60ft
+  - Blindsight: 10ft
+Abilities: 
+  - str: 18
+  - dex: 13
+  - con: 14
+  - int: 17
+  - wis: 18
+  - cha: 19
+Class: 
+  - Name: "Aberration"
+  - Level: 10
+Defenses: 
+  - HP: 65
+  - AC: 0
+    Formula: (+1 Dex, +16 Natural)
+  - Fast Healing: 4
+  - Spell Resistance: 21
+  - Immunities: polymorph, petrification, acid
+  - Saves:
+    Fort:   5 
+    Reflex: 4
+    Will:   11
+  - Speed:
+      Fly: 30ft
+Combat:
+  - Initiative: +1
+  - BAB: 7
+  - Combat Maneuver: 
+    CMB: 11
+    CMD: 22
+  - Attacks:
+    Melee:  
+      6 claws: +9 1d6
+      bite: +4 2d6
+      stinger: +4 1d8 + poison and implant
+Special Abilities:
+  - Implant (Ex): |
+      As a standard action, an adult or older 
+      phaerimm can use its stinger to lay eggs 
+      inside a paralyzed creature. The young 
+      emerge about 90 days later, literally 
+      devouring the host from inside. A remove 
+      disease spell rids a victim of the eggs, 
+      as does a successful DC 20 Heal check made 
+      by a character with ranks that skill. 
+      If the check fails, the healer can try again,
+      but each attempt (successful or not) deals 
+      1d4 points of damage to the patient.
+  - Poison (Su): |
+      Stinger, DC 15 Fortitude save; 
+      initial damage paralysis for 2d4 rounds, 
+      secondary damage paralysis for 1d3 hours. 
+      Paralyzed creatures levitate, helpless, 
+      a few feet off the ground.
+  - Spells: |
+      A phaerimm casts arcane spells as a sorcerer
+      (caster level equals phaerimm's character 
+      level). Phaerimms use their sorcerer spells 
+      as if they were spell-like abilities, so they 
+      require no verbal, somatic, or material 
+      components.
+  - Detect Magic (Sp): |
+      Beginning as a hatchling, a phaerimm can 
+      use detect magic at will (caster level equals 
+      phaerimm's character level).
+  - Flight (Ex): |
+      Because a phaerimm's body is naturally buoyant, 
+      it can fly at a speed of 30 feet. This buoyancy 
+      also grants the creature a permanent feather 
+      fall effect (as the spell) with personal range.
+
+  - Full Vision (Ex): |
+      As it ages, a phaerimm's natural ability to 
+      detect magic expands. A juvenile phaerimm can 
+      see invisible or ethereal creatures to a range 
+      of 120 feet, as though under the effect of a 
+      see invisibility spell. An adult phaerimm 
+      constantly can see magical auras to a range of 
+      120 feet, as though constantly under the 
+      effect of an arcane sight spell. An elder 
+      phaerimm sees as though constantly under the
+      effect of a true seeing spell.
+  - Telepathy (Ex): |
+      A juvenile or older phaerimm can 
+      communicate telepathically with any 
+      creature within 100 feet that has a 
+      language.
+  - Corrosive Blood: |
+      HDxd6 reflex DC 10+1/2HD+CON (17)
+  - Hive Mind:
+Feats: 
+Spells: 
+  1th: 6/day of 5 known
+    - Magic Missile
+    - Mage Armor
+    - Shield
+    - Technomancy
+    - Grease
+  2th: 6/day of 4 known
+    - Blood Armor (fun interaction with Acidic Blood!)
+    - Mirror Hideaway
+    - Mirror Image
+    - Pouncing Fury
+  3th: 6/day of 3 known
+    - Twisted Innards
+    - Haste
+    - Fireball "Acid"
+  4th: 5/day of 2 known
+    - Warp Metal
+    - Enervation
+  5th: 3/day of 1 known
+    - Telekiness
+

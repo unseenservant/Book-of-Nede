@@ -1,0 +1,35 @@
+Name: "Foobar"
+Race: "Foobar"
+Abilities: 
+  - str: 1
+  - dex: 1
+  - con: 1
+  - int: 1
+  - wis: 1
+  - cha: 1
+Class: 
+  - Name: "Foobar"
+  - Level: 1
+Defenses: 
+  - HP: 1 
+  - AC: 0
+    Formula: ()
+  - Fast Healing: 4
+  - Saves:
+    Fort:   1 
+    Reflex: 1
+    Will:   1
+Combat:
+  - Initiative: +1
+  - BAB: 1
+  - Combat Maneuver: 
+    CMB: 1
+    CMD: 1
+  - Attacks: 
+    Foo: Bar
+Special Abilities:
+  - Foo: Bar
+  - Feats: 
+Spells: 
+
+
