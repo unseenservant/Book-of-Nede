@@ -1,0 +1,144 @@
+Name: "Generic Dire Hive Warrior"
+Race: "Dire Hive Warrior"
+Abilities: 
+  - str: 26
+  - dex: 17
+  - con: 22
+  - int: 11
+  - wis: 20
+  - cha: 9
+Class: 
+  - Name: "Aberration"
+  - Level: 14
+Defenses: 
+  - HP: 126
+  - AC: 0
+    Formula: (+3 Dex, +13 natural, -1 Size)
+  - Fast Healing: --
+  - Saves:
+    Fort:   10 
+    Reflex: 7
+    Will:   14
+Combat:
+  - Initiative: +3
+  - BAB: 14
+  - Combat Maneuver: 
+    CMB: 24
+    CMD: 36
+  - Attacks:
+    Melee: 
+      bite: +22 (1d8+4), 
+      2 claws: +22 (1d6+4) 
+      2 boneblades: +22 (2d8+4)
+      tail blade: +17 (1d8+2)
+    Ranged:
+      acid spit: + touch (14d6 acid for 1d3 rounds)
+Special Abilities:
+Acid Spit (Ex): |
+    A hive warrior can spray acid as a ranged 
+    touch attack out to a maximum range of 20 feet. 
+    Creatures struck by this spray take acid damage 
+    as if struck by a hive creature’s death throes.
+    Additionally, creatures damaged by a 
+    hive warrior’s acid spit continue to take the 
+    same amount of acid damage for the next 1d3 
+    rounds. A successful Reflex save halves the 
+    initial damage and negates the ongoing damage.
+
+    The save DC is Dexterity-based.
+
+Rending Mandibles (Ex):
+  When a hive warrior confirms a critical hit 
+  with its boneblades, it deals equal damage to 
+  the creature’s armor.
+
+  Boneblade: |
+      This Medium-size slashing melee weapon is 
+      considered masterwork (adds +1 to attack roll) 
+      and deals 1d10 points of damage. It is 
+      bone-white with thin red and blue veins 
+      covering its sides.
+
+  Extra Armor: |
+      Extra chitinous plates are fitted to the 
+      hive warrior's body, adding +2 to its existing 
+      natural armor bonus.
+
+  Mouth Launcher: |
+      This weapon, which attaches to the back of a 
+      hive warrior's mouth, looks like a worm with a 
+      sphincterlike mouth. As an additional attack
+      made at the hive warrior's highest attack bonus, 
+      the mouth launcher can shoot out at a foe, 
+      making an improved grab attack that deals 
+      1d4 points of damage (plus the hive warrior's 
+      Strength bonus). If it gets a hold, the 
+      foe is pulled into the hive warrior's mouth 
+      for an automatically successful bite 
+      attack on that same round. The mouth 
+      launcher continues to hold the foe, allowing 
+      automatic bite attacks each round until the 
+      foe breaks free. Add +1 to the Challenge 
+      Rating of a hive warrior with this weapon.
+
+  Corrosive Blood (Ex): |
+      A hive creature’s blood is highly caustic. 
+      Every time the hive creature is damaged by a 
+      piercing or slashing weapon, the attacking 
+      creature takes acid damage according to the 
+      table below (or double damage if the attack 
+      is a critical hit). Using a reach weapon does 
+      not endanger the attacker in this way. If the 
+      hive creature has the swallow whole ability, 
+      it adds this damage to its swallow whole 
+      damage.
+
+      Size of Hive Creature	Points of Acid Damage
+        Medium or smaller	1d4
+        Large	1d6
+        Huge	1d8
+        Gargantuan	2d6
+        Colossal	2d8
+
+  Death Throes (Ex): |
+      When a hive creature dies, it exudes a pool of 
+      its corrosive blood in the space it occupies. 
+      This pool deals 1d6 points of acid damage per 
+      Hit Die of the hive creature for 3 rounds to 
+      objects and creatures in those squares 
+      (Reflex half ). This acid damages whatever 
+      surface it is on, and if it deals enough damage 
+      to destroy the surface, the acid falls down to 
+      any subsequent floor below and continues to deal 
+      damage. The save DC is Constitution-based.
+
+  Heat Adaptability (Ex): |
+      Hive creatures are considered to always be 
+      under the effect of endure elements with 
+      regard to hot climates.
+
+  Hive Mind (Ex): |
+      Hive creatures have no language of their own, 
+      instead communicating simple concepts via 
+      pheromone discharge and body language that other 
+      creatures with the hive subtype understand. 
+      This ability functions within line of sight. 
+      If one hive creature is able to act in the 
+      surprise round of combat, all other hive 
+      creatures in line of sight can also act, and a 
+      hive creature isn’t flanked unless all hive 
+      creatures within line of sight are flanked.
+
+Feats: 
+  1st:  Improved Init 
+  2nd:  Combat Reflexes
+  3rd:  x
+  5th:  x
+  7th:  x
+  9th:  x
+  11th: x
+  13th: x
+  
+Spells: 
+
+
