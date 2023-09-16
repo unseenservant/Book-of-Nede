@@ -14,27 +14,32 @@ Defenses:
   - HP: 126
   - AC: 0
     Formula: (+3 Dex, +13 natural, -1 Size)
-  - Fast Healing: --
+  - Regen: 5 fire
+  - DR: 10/adamantine
   - Saves:
     Fort:   10 
     Reflex: 7
     Will:   14
 Combat:
-  - Initiative: +3
-  - BAB: 14
+  - Initiative: +7
+  - BAB: 10
   - Combat Maneuver: 
     CMB: 24
     CMD: 36
   - Attacks:
     Melee: 
-      bite: +22 (1d8+4), 
-      2 claws: +22 (1d6+4) 
-      2 boneblades: +22 (2d8+4)
-      tail blade: +17 (1d8+2)
+      bite: +13 (1d8+28), 
+      2 claws: +18 (1d6+4) 
+      2 boneblades: +13 /19-20x4 (2d8+16)
+      tail blade: +8 (1d8+12)
     Ranged:
-      acid spit: + touch (14d6 acid for 1d3 rounds)
+      acid spit: +13 touch (14d6 acid for 1d3 rounds)
 Special Abilities:
-Acid Spit (Ex): |
+  hide in plain sight: |
+      ...
+  woodland stride: |
+      ...
+  Acid Spit (Ex): |
     A hive warrior can spray acid as a ranged 
     touch attack out to a maximum range of 20 feet. 
     Creatures struck by this spray take acid damage 
@@ -47,10 +52,10 @@ Acid Spit (Ex): |
 
     The save DC is Dexterity-based.
 
-Rending Mandibles (Ex):
-  When a hive warrior confirms a critical hit 
-  with its boneblades, it deals equal damage to 
-  the creature’s armor.
+  Rending Blades (Ex): |
+    When a hive warrior confirms a critical hit 
+    with its boneblades, it deals equal damage to 
+    the creature’s armor.
 
   Boneblade: |
       This Medium-size slashing melee weapon is 
@@ -132,13 +137,10 @@ Rending Mandibles (Ex):
 Feats: 
   1st:  Improved Init 
   2nd:  Combat Reflexes
-  3rd:  x
-  5th:  x
-  7th:  x
-  9th:  x
-  11th: x
-  13th: x
-  
-Spells: 
-
+  3rd:  Multiattack
+  5th:  Serpentine Compression
+  7th:  Power Attack
+  9th:  Point Blank Shot
+  11th: Precise Shot
+  13th: Improved Critical (Boneblades)
 

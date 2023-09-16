@@ -18,15 +18,17 @@ Defenses:
     Fort:   8 
     Reflex: 7
     Will:   11
+  - Regeneration: 5 Acid
+  - Immunities: Acid, Transmutation
 Combat:
   - Initiative: +3
   - BAB: 7
   - Combat Maneuver: 
     CMB: 11
-    CMD: 24
+    CMD: 26
   - Attacks: 
     Melee:
-      Bite: +10 3d6 +6
+      Bite: +10 3d6+6 + Grab + Blood Drain (1d4 con)
       4 claws: +9 1d8 +4
     Ranged: 
       Acid Spit: 10d6 for 1d3 rounds
@@ -48,7 +50,78 @@ Special Abilities:
         It cannot use this supernatural ability more than once per 
         round. Add +1 to the Challenge Rating of a kython with this 
         device.
+  Ancient Goblins: 
+    Blood Incorporation (ex): |
+        Whether by their Bite attack, or licking the blood of their 
+        foes off their claws. The goblin can incorporate the natural 
+        attacks, extraordinary abilities, movement types, special 
+        abilities, and special qualities of any living corporeal 
+        creature. If the creature is also non-extraplanar, their 
+        supernatural abilities are also incorporated. The goblin 
+        grows extra limbs to accomodate new natural attacks, or 
+        limbs appropriate for new movement modes. The goblin 
+        immediately develops the necessary anatomy to replicate the 
+        extraordinary abilities. The goblin treats these incorporated 
+        abilities just as if they were its own racial traits. These 
+        traits persist indefinitely, unless the Goblin chooses to 
+        abandon them. A goblin's size category never changes  as the 
+        result of this ability. Weaknesses or Immunities that are a 
+        result of the target's [Type] are never incorporated. 
+
+    Blood drain: as Vampire 1d4 CON / +5 Temp HP
+
+  Corrosive Blood (Ex): |
+      A hive creature’s blood is highly caustic. 
+      Every time the hive creature is damaged by a 
+      piercing or slashing weapon, the attacking 
+      creature takes acid damage according to the 
+      table below (or double damage if the attack 
+      is a critical hit). Using a reach weapon does 
+      not endanger the attacker in this way. If the 
+      hive creature has the swallow whole ability, 
+      it adds this damage to its swallow whole 
+      damage.
+
+      Size of Hive Creature	Points of Acid Damage
+        Medium or smaller	1d4
+        Large	1d6
+        Huge	1d8
+        Gargantuan	2d6
+        Colossal	2d8
+
+  Death Throes (Ex): |
+      When a hive creature dies, it exudes a pool of 
+      its corrosive blood in the space it occupies. 
+      This pool deals 1d6 points of acid damage per 
+      Hit Die of the hive creature for 3 rounds to 
+      objects and creatures in those squares 
+      (Reflex half ). This acid damages whatever 
+      surface it is on, and if it deals enough damage 
+      to destroy the surface, the acid falls down to 
+      any subsequent floor below and continues to deal 
+      damage. The save DC is Constitution-based.
+
+  Heat Adaptability (Ex): |
+      Hive creatures are considered to always be 
+      under the effect of endure elements with 
+      regard to hot climates.
+
+  Hive Mind (Ex): |
+      Hive creatures have no language of their own, 
+      instead communicating simple concepts via 
+      pheromone discharge and body language that other 
+      creatures with the hive subtype understand. 
+      This ability functions within line of sight. 
+      If one hive creature is able to act in the 
+      surprise round of combat, all other hive 
+      creatures in line of sight can also act, and a 
+      hive creature isn’t flanked unless all hive 
+      creatures within line of sight are flanked.
+
 Feats: 
-Spells: 
-
-
+  - 1st: Point Blank Shot
+  - 3rd: Precise Shot 
+  - 5th: Weapon Focus (Bite)
+  - 5th: Improved Unarmed Strike
+  - 7th: Improved Grapple
+  - 9th: Greater Grapple
