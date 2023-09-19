@@ -26,14 +26,13 @@ Spells: \
 
     +2 INT Modifier per level
 
-```
-    BAB F/R/W   C-Feats                     Spellcasting
-    0   0/0/2   Book of Sigilmetry, Sigils  +1
-    1   0/0/3   SpellGlyph                  +1
-    1   1/1/3   SigilSight                  +1
-    2   1/1/4   Pass Symbol                 +1
-    2   1/1/4   Powerful SpellGlyphs        +1
-```
+| BAB  | F/R/W |  C-Feats | Spellcasting |
+| --- | --- | --- | --- |
+| 0 |  0/0/2  | Book of Sigilmetry, Sigils | +1
+| 1 |  0/0/3  | SpellGlyph                 | +1
+| 1 |  1/1/3  | SigilSight                 | +1
+| 2 |  1/1/4  | Pass Symbol                | +1
+| 2 |  1/1/4  | Powerful SpellGlyphs       | +1
 
 ### Class Features
 
@@ -55,3 +54,18 @@ Make a caster level check, (DC 11+Caster Level) vs a sigils, symbols, glyphs, ru
 
 #### <u>Powerful SpellGlyphs (Su)</u>:
 Optionally, may choose to prepare spells as **Heightened** without using a higher level spell slot. Spells prepared in this way may not be **Stilled**
+
+
+
+
+
+
+Sacred Geometry: As the feat
+
+Sigilmetry: treat Spellcraft like Truename for the purposes of making Truename checks. Gain a +2 Bonus on Truename checks for every level in the Geometer PrC. 
+
+Expressions: Can use Utterances from the Truenamer class 'silently' using Spellcraft skill. They are now called Expressions. Requires material components and a firm surface to 'write' on. Only utterances gained / learned / acquired from a level in this PrC can be used as Expressions -- utterances gained/learned/acquired from levels in a different class cannot be used as Expressions. 
+
+Theurge with Truenamer for Utterances/Spells. 
+
+++ all the same Glyph stuff the Geometer normally gets vanilla
