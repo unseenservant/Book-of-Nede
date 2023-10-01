@@ -23,11 +23,17 @@ Truespeech:
     Ki/Chakra:
     
   The Craft or Arcane:
-    - Spellcraft: 
+    - Abjuration: 
       Formula: |
-        Potentiality +
-        Implication Construct = 
-        Resulting Reaction
+        Repelling/Dispelling Planar Potential Power +
+        Implied Metaphysical Action = 
+        Resulting Reaction, aka. Spell Effect
+      Schools:
+      - Zontamancy(Necromancy)
+      - Elemancy(Evocation)
+      -	Morphomancy(Transmutation)
+      - Profimancy(Divination)
+      - Psimancy(Illusion+Enchantment)
     - Conjuration: 
       Formula: |
         Conjured Planar Potential Power +
