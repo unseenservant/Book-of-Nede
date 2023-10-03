@@ -34,12 +34,7 @@ There are many kinds of Derived Magic, some more powerful than others. Some rare
 - Invention/Inspiration
 - Skill/Practice
 
-#### Psionics
-#### Pact
-#### Esoterica
-    Ki 
-
-#### Spellcraft | The Arcane
+#### The Arcane | (Spellcraft) Magic assembled
 Spells are all about the concepts of the **<u>Abjuration</u>** and **<u>Conjuration</u>** of planar power. A Spellconsists of: 
 - Words of Creation
 - Reagents or Foci
@@ -53,11 +48,79 @@ Because of the planes used to provide power to the spells are different, Spellcr
       -	Morphomancy(Transmutation)
       - Profimancy(Divination)
       - Noumancy(Illusion+Enchantment)
+#### Elder Knowledge | The Occult, Magic invoked by 'alternative' means. 
+Witchcraft 
+- draws power from spirits, 
+- invokes effects from [Ritual]
+- taught by Patrons
 
-#### Elder Knowledge 
-    Ritual
-    Witchcraft
-    Alchemy
-#### Imbued
+Alchemy 
+- draws power from physicality 
+- invokes effects from [Ritual]
+- discovered by Science
+
+Occultism / Psychic Magic
+- draws power from *others* minds/belief via the Astral Plane
+- invokes effects by spell assembly
+- discovered via hallucinogens & lucid dreaming 
+
+#### Imbued | Magic on Loan
     Divine
     Nature
+#### Esoterica | 
+Ki 
+- draws power from physicality (of one's body)
+- invokes effects from state of mind & martial forms
+- discovered by Monks 
+
+Chakra
+- draws power from spirit (one's own)
+- invokes effects from health of spirit & body
+- discovered by monks / gurus 
+
+Blood
+- draws power from one's own lifeforce or anothers 
+- canonically very powerful and evil; invoked by a [Ritual] created bloodletter
+- Taught to Witches, has splintered off since then. 
+
+Sigilmetry
+- draws power directly from the [TabletsofFate]
+- invoked by geometric diagram representing complete [Truespeech]
+- recorded by ancient Powers
+
+Ritual
+- draws power directly from the [TabletsofFate]
+- invoked by specific actions, symbols, that represent the transformation from current metaphysical states to desired ones. Lengthy, time sensitive, and complex
+- discovered/recorded by ancient Powers
+
+#### Psionics
+True psionic might is exceedingly rare, and rarer still is a psion with latent power developing it to a level they can control without killing themselves. 
+
+- draws power directly from the user's own mind
+- invoked by thought, directed by will 
+- naturally occuring phenomena, likely the result of genetic or magical shenanigans in the psion's lineage. 
+
+
+#### Pact
+Pact magic is often used to empower binding agreements. However, its power runs much deeper than its already deeply realized use cases. Pact magic is responsible for empowering [Ritual] based magics, and is an emanated energy directly from the [TabletsOfFate]. 
+
+- draws power directly from the [TabletsOfFate]
+- cannot be invoked, except by [Ritually] created bargains, deals and covenants willingly agreed to 
+- underpins the functioning of many features the [TabletsOfFate] provide. 
+#### Morality
+
+
+## The Building Blocks 
+
+### Sources
+All inner magic is fueled by a source. That could be potential energy transformed into kinetic energy by winching a weight high up off the ground, or tapping into the plane of fire to fuel a spell of flames. 
+
+The methods of moving potential energy around, or drawing, are to be represented as *if they were scientifically* done. Always adhering to the notion that a step-by-step process can be followed to move/transform energy from one place/form to another. 
+
+### Casting
+Building the mechanism that conducts the steps to produce an effect should always respect the source, and the type of magic. 
+
+Esoterica magic always involves hidden or mysterious knowledge, philosophical realizations, wisdom 
+
+
+### Effect 
