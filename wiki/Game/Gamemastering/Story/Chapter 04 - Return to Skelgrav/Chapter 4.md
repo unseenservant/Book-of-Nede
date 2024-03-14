@@ -126,7 +126,7 @@ By the end of the Adventure the PCs
 - Have eradicated/neutralized the **arcano-organic virus**
 - Have eliminated the Cordyceps Spore fungi
 - Have eliminated the (local) Hive Queen
-- Have dealt with the Ahamkara Centipede
+- ~~Have dealt with the Ahamkara Centipede~~
 - Have prevented the completion of **Confratae**'s ritual
 
 ... and the PCs should have collected

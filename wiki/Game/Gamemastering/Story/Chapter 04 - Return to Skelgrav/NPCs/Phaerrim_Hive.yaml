@@ -14,9 +14,9 @@ Class:
   - Name: "Aberration"
   - Level: 10
 Defenses: 
-  - HP: 65
-  - AC: 0
-    Formula: (+1 Dex, +16 Natural)
+  - HP: 48/65
+  - AC: 27 (35)
+    Formula: (+1 Dex, +16 Natural [+4 Mage Armor, +4 Shield])
   - Fast Healing: 4
   - Spell Resistance: 21
   - Immunities: polymorph, petrification, acid
@@ -90,7 +90,7 @@ Special Abilities:
       creature within 100 feet that has a 
       language.
   - Corrosive Blood: |
-      HDxd6 reflex DC 10+1/2HD+CON (17)
+      1d6 reflex DC 10+1/2HD+CON (17)
   - Hive Mind:
 Feats: 
 Spells: 
