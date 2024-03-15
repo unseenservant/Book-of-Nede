@@ -1,11 +1,23 @@
 # Chapter 06 - Shadow over Emhrais 
 
+## Random Encounter
+
+| Dice | Thing | Scenario | Location |
+| --- | --- | --- | --- |
+| 1 | Ignorant Illusions | Existential Crisis | House |
+| 2 | Citizens | Revolting | a Town Square | 
+| 3 | Crusaders | Carousing | Tavern |
+| 4 | Ravenous Animals | Hunting | Alley |
+| 5 | Shadows | Lurking | Empty Street | 
+| 6 | Selfishness | Taunting | Wherever the PCs are | 
+
+
 ## Homunculi Umbrae
 
-- Ambition (the strong, silent guy)
-- Lust (the sexy chick)
-- Selfishness (the creepy guy)
-- Haughtiness (the kid)
+- Ambition (the strong, silent guy) | Legendary Action
+- Lust (the sexy chick) | Body Horror
+- Selfishness (the creepy guy) | Ability Mimicry 
+- Haughtiness (the kid) | Shadows 
 
 ## Simulacra everywhere 
 
