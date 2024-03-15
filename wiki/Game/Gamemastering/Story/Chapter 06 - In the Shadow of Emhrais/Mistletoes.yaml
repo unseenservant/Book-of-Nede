@@ -1,0 +1,42 @@
+Name: "Mistletoes"
+Race: "Gnome"
+Abilities: 
+  - str: 6
+  - dex: 12
+  - con: 12
+  - int: 18
+  - wis: 13
+  - cha: 16
+Class: 
+  - Name: "Illusionist"
+  - Level: 5
+  - Name: "Veiled Illusionist"
+  - Level: 10
+Defenses: 
+  - HP: 105 
+  - AC: 11
+    Formula: ()
+  - Fast Healing: 0
+  - Saves:
+    Fort:   5 
+    Reflex: 5
+    Will:   8
+Combat:
+  - Initiative: +1
+  - BAB: 7
+  - Combat Maneuver: 
+    CMB: 6
+    CMD: 17
+  - Attacks: 
+    
+Special Abilities:
+  - 
+Feats: 
+  - Effortless Trickery
+  - Spell Focus (Illusion)
+  - Solid Shadows
+Spells: 
+Items: 
+  - Ring of Callaran (Artifact)
+  - Crook of Cildhureen
+
