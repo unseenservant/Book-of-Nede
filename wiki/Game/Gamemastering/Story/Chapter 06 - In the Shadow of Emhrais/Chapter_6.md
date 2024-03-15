@@ -32,3 +32,46 @@ It is here, in this archaic chamber that Mistletoes experiment upon the moon is 
 These captured druids are but a small fraction of the illegally seized druids being held against their will by Mistletoes elsewhere in the city's dark underbelly. 
 
 # Outline
+
+1. Mystery of the Town's starvation
+2. Waxshop
+3. Explore the tunnels
+4. 5 different Portal challenges 
+5. Battle against Selfishness Homonc 
+6. Dwarven Orrery prototype ; dispelling the illusion. 
+
+## Immediate Background 
+
+Mistletoes has enough druids, and he is ready for a test of his power. The Ring of Callaran has fully consumed him -- and the Feylord has dominated his mind completely at this point. Only the shadow of Mistletoes original personality remains, and that is guttering out swiftly. It is also the only reason why he is prudent enough to test his ritual first before straight up pulling the trigger on the merger. 
+
+While the test plays itself out, Mistletoes begins the adventure in his lair in the Palace briefing his homunculi on the final stages of the plan. Selfishness thinks that the waxdoll plan is a better alternative to planar merger, and so ultimately strikes out on his own to prove his idea. 
+
+Regardless of this, Mistletoes leaves the Palace to observe the experiment from a safe distance, and to prepare for the merger in secrecy away from the prying eyes of the Spymaster or Luxi. 
+
+His druid captives are sequesterd in a gemstone he keeps as an amulet, so that he can travel with them at all times. 
+
+Meanwhile: Haughtiness has been recalled from his druid capturing and is guarding the Palace and Temple of Luxi to ensure the ritual site will remain available. 
+
+Lust and Ambition remain in the Palace as representatives of Mistletoes to the King and royal court, in case anyone gets too suspicious of the Vizier's absence. 
+
+Lust is especially loyal and will do well to placate the court. Ambition however, is eager to betray the gnome and covets *true life* for himself. He believes he can achieve this through a deal with a Devil **Zebuluous** in exchange for the Spymaster's soul. The Spymaster is held in his own vampiric dungeon by Ambition as he engages in a days long bartering with the Devil for true life. 
+
+## Adventure Start
+
+The PCs should be on their way back to Cairndal with the codex from Finzelzin when this adventure begins. Stopping in at Emhrais they realize the rampant starvation and become enmeshed in determining the source of the illusion. 
+
+Investigation will reveal the bizarre nature of the Wax museum and it's 'anti-involvement' from the hustle and bustle of the over saturated city. Among other leads, the Spymaster has a record of the Waxworks being an oddity; the Illusory characters will reference dreaming of the Waxworks; any destroyed illusions will turn to wax after their first 'veil' is wrecked, and finally if the Homunculus attacks it will retreat to the Waxworks. 
+
+Once inside the Wax museum the PCs should be able to find the repilcated people Selfishness has made, and his own experiments to incorporate different races abilities into himself. 
+
+Eventually either by the homunculus's flight into the tunnels or by discovering the office's secrets; the PCs should make their way into the tunnels and eventually find the experimental ritual site. 
+
+There the PCs will have to engage with 5 different demi-planes of Shadow; to rescue the 5 druids imprisioned within. Dikkori among them. 
+
+When they free the last one, dispelling the illusion ritual, the final battle with Selfishness will ensue. 
+
+If the PCs are successful, selfishness will beg for its life and if offered the chance will reveal to the PCs that Ambition and Lust guard Mistletoes private study and are influencing the court. 
+
+The PCs should also be able to discern that the Dwarves of Silverroot are assisting Mistletoes in exchange for Wax Soliders to help fight a silent orcish invasion. 
+
+Chapter 9 will begin when the PCs begin snooping around the Palace for the Spymaster / Ambition / Lust
