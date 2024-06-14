@@ -1,91 +1,173 @@
-Truespeech:
-  Psionics:
-  Pact:
-    - Bondmagic: | 
-        Power of a Promise + 
-        Implication Construct + 
-        Symbol of the Bond Bonding Reagent =
-        A Binding Effect
+              Ingredients:
+                Source: 
+                Method: 
+                Memetic_Encapsulation: 
+                Effect: 
+                Examples: 
+---
+Extropy:
+  Meaning/Information:
+    Tablets of Fate (Extropic Engine): 
+      Cosmological Roots: 
+      - Dimensional Boundaries
+      - Elemental Energy:
+        - Acid
+        - Air
+        - Cold
+        - Shadow
+        - Water
+        - Earth
+        - Fire
+        - Electricity
+        - Light
+        - Darkness
+      - Fate: 
+        - Curse
+      - Emotional Energy:
+        - Pain
+        - Fear
+        - Hope
+      - Physical Forces:
+        - Sonic
+        - Force
+      - Life Dipole:
+        - Death
+        - Life
+      - Entropic Dipole:
+        - Chaotic
+        - Lawful
+      - Moral Dipole: 
+        - Evil
+        - Good
 
-  Esoterica:
-    Bloodmagic: | 
-      Power of the Essence a Life + 
-      Implication Construct = 
-      Resulting Reaction
+      Truespeech:
+        Ingredients:
+          Source: Meaning Itself as mediated by the Tablets of Fate
+          Method: Vocalizing a word of Truespeech
+          Memetic_Encapsulation:  a representation of Meaning in a Sound wave pattern
+          Effect: Varies
+          Examples: Commanding someone, causing a magical effect, altering fundamental properties
 
-    Fate/Destiny: | 
-      Power of the Essence of Destiny + 
-      Implication Construct = 
-      Resulting Reaction
-    Logic/Math:                                  
-      - Arithromancy (Math) Sigilmetry: |
-          A word or phrase in truespeech, perfectly inscribed in a diagramatic denotation. Can produce any effect. 
-    Ki/Chakra:
-    
-  The Craft or Arcane:
-    - Abjuration: 
-      Formula: |
-        Repelling/Dispelling Planar Potential Power +
-        Implied Metaphysical Action = 
-        Resulting Reaction, aka. Spell Effect
-      Schools:
-      - Zontamancy(Necromancy)
-      - Elemancy(Evocation)
-      -	Morphomancy(Transmutation)
-      - Profimancy(Divination)
-      - Psimancy(Illusion+Enchantment)
-    - Conjuration: 
-      Formula: |
-        Conjured Planar Potential Power +
-        Implied Metaphysical Action = 
-        Resulting Reaction, aka. Spell Effect
-      Schools:
-      - Zontamancy(Necromancy)
-      - Elemancy(Evocation)
-      -	Morphomancy(Transmutation)
-      - Profimancy(Divination)
-      - Psimancy(Illusion+Enchantment)
-  Elder Knowledge:
-    - Ritual: 
-      Formula: |
-        Any Source of Power + 
-        Implication Construct = 
-        Resulting Reaction
-    - Material:
-      Witchcraft: 
-        Formula: |
-          Nature Power + 
-          Implication Construct = 
-          Resulting Reaction
-      Alchemy:
-        Formula: |
-          Reagent(s) + 
-          Subject 
-          = Reaction
+        Logic/Math:                                  
+          Sigilmetry:
+            Ingredients:
+              Source: Truespeech
+              Method: A perfectly inscribed geometric diagram 
+              Memetic_Encapsulation: a representation of a Truespeech word's sound pattern in geometry
+              Effect: Varies, as Truespeech 
+              Examples: As Truespeech
 
-  The Gift:
-    Green: 
-      Fomula: |
-        Nature Power + 
-        Balance Invocation = 
-        Resulting Reaction
-      Harmony:
-        Formula: |
-          eg. Nature + 
-          Harmony Invocation (Plea) = 
-          Fix damaged flesh (heal)
-      Discord:
-        Formula: |
+          Psionics:
+            Ingredients:
+              Source: Truespeech
+              Method: A perfectly formed idea or mental "image" 
+              Memetic_Encapsulation: a representation in thought of a Truespeech word's memetic content
+              Effect: Varies, as Truespeech 
+              Examples: as Truespeech
 
-    Divine: 
-      Formula: |
-        Divine Power + 
-        Moral Invocation (Prayer) = 
-        Resulting Reaction
-      Holy:
-      Order:
-      Unholy:
-      Chaos:
+        Pact:
+          Description: 
+          - Bondmagic:  
+              Ingredients:
+                Source: Power of a Promise 
+                Method: Passing a intimately personal physical token or act to signify assent
+                Memetic_Encapsulation:  Representation of the Bond
+                Effect: A Cosmically enforced Bond
+                Examples: A blood signed contract , ritualistic sex, spit sealed handshake 
 
-The Good:
-  Paladins:
+        Esoterica:
+          Bloodmagic:
+            Ingredients:
+              Source: Power of the Essence a Life
+              Method: The shedding of lifeblood
+              Memetic_Encapsulation:  Spell or Ritual
+              Effect: Magical Action 
+              Examples: Life Force related effects 
+
+
+          Fate/Destiny:
+            Moirocana: 
+              Ingredients:
+                Source: Power of the Essence of Destiny
+                Method: Varies
+                Memetic_Encapsulation:  representation of target's fate
+                Effect: Prophesy or Fate Alteration
+                Examples: Changing one's destiny, rewriting one's stars, adjusting one's entry on the Tablet's of Fate
+                
+          Ki/Chakra:
+              Ingredients:
+                Source: One's own Life Force or Meaning 
+                Method: Biomechanical processes
+                Memetic_Encapsulation: Understanding or Wisdom concerning one's true self, being, or otherwise enlightened nature
+                Effect: Varies, always physical and/or Biomechanical in nature 
+                Examples: Enhanced strength, great feats of agility, exceeding normal physical limitations
+
+        The Craft or Arcane:
+          Spellcraft: 
+            Ingredients:
+              Source: Cosmological Root
+              Method: A Spell Schema  
+              Memetic_Encapsulation: a representation of an act upon the Cosmological Root; Encapsulated by the Spell Schema
+              Effect: Varies depending on Cosmological Root*
+              Examples: Fireball, Fly, Gate, Wish, Magic Missile
+
+          Schools of Spellcraft:
+          - Cosmotism: Dimensional Boundaries
+          - Elementalism: Elemental Energy
+          - Foresight: Fate
+          - Affectomancy: Emotional Energy
+          - Primacy: Physical Forces
+          - Vitalism: Life Dipole
+          - Entropomancy: Entropic Dipole
+          - Ethomancy: Moral Dipole
+
+        Elder Knowledge:
+          - Ritual: 
+              Ingredients:
+                Source: Any Source
+                Method: Varies, usually a complicate series of symbolic actions
+                Memetic_Encapsulation: The enacting of the method is a representation of the meaning
+                Effect: Varies 
+                Examples: 
+
+          - Occultcraft:
+              Witchcraft: 
+                Ingredients:
+                  Source: Nature Power
+                  Method: Occult Schema (like a Spell Schema)
+                  Memetic_Encapsulation: a representation of an improper act upon the Nature Power; Encapsulated by the Occult Schema
+                  Effect: Varies
+                  Examples: Hexes, Poppet, varies
+
+              Alchemy:
+                Ingredients:
+                  Source: Physical Forces
+                  Method: Occult Recipe
+                  Memetic_Encapsulation: a representation of an improper act upon the Physical Forces; Encapsulated by the Occult Recipe
+                  Effect: Alchemical, varies
+                  Examples: Turning lead into gold, a potion that turns flesh to stone
+
+        The Gift:
+          Green: 
+            Ingredients:
+              Source: Nature Power
+              Method: Communion
+              Memetic_Encapsulation: none, a request to Nature to perform magic for you 
+              Effect: varies, usually involving plants, animals or the natural world
+              Examples: Speaking with Animals, Causing plants to entangle foes
+
+          Divine: 
+            Ingredients:
+              Source: a representative Power-entity serving one end of a Moral or Entropic Dipole (law, chaos, good, evil)
+              Method: Invocation/Prayer
+              Memetic_Encapsulation: none, a request to a representative Power-entity to perform magic for you
+              Effect: varies, always aligns with the Power-entity's interests
+              Examples: a Miracle, Holy light that burns away evil doers, unholy blight
+
+    The Good:
+      Ingredients:
+        Source: Absolute Moral Righteousness
+        Method: A sincere declaration to do what is Right
+        Memetic_Encapsulation: N/A
+        Effect: Varies
+        Examples: Holy Smite, Resisting Evil
